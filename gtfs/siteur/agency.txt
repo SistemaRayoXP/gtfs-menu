@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_lang,agency_timezone,agency_url,agency_phone,agency_email,agency_fare_url
+MM,Mi Macro,es,America/Mexico_City,http://siteur.gob.mx/,(33)3942-5700,,
+MT,Mi Tren,es,America/Mexico_City,http://siteur.gob.mx/,(33)3942-5700,,
+ST,SiTren,es,America/Mexico_City,http://siteur.gob.mx/,(33)3942-5700,,
