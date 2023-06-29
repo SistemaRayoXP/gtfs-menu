@@ -1,0 +1,1696 @@
+stop_name,stop_id,stop_lat,stop_lon
+1 de Mayo,mxc_C98_STP_92,20.67468,-103.23072
+16 de Septiembre,MM_C122_114,20.62255,-103.24706
+16 de Septiembre,MM_T19C01_14,20.71238,-103.45513
+18 de Marzo,MM_T13C1_100,20.61448,-103.28423
+18 de Marzo,MT-L1_06,20.638203,-103.376945
+20 de Enero,MM_T19C01_15,20.71184,-103.45215
+21 de Marzo,MM_C23_68,20.7133,-103.30195
+21 de Marzo,mxc_C23_STP_68,20.7133,-103.30195
+25 de Mayo,ST_04_028,20.829933,-103.450195
+25 de Mayo,ST_04_049,20.83027,-103.45044
+5 De Mayo,MP-T-024,20.710436,-103.43947
+5 de Mayo,MM_C128AV1_59,20.66292,-103.34432
+5 de Mayo,MM_C12V1_08,20.55313,-103.44478
+8 De Julio,MP-T-019,20.586727,-103.3826
+A Chapala,MM_T13AC01_20,20.60596,-103.31569
+A LAS MONTAÑAS,ST_01_034,20.678133,-103.41882
+A La Base Aerea - Acueducto,MP-C-099,20.755905,-103.4418
+A San José del Castillo,mxc_C98_STP_07,20.527,-103.25013
+ALLENDE,ST_1B_021,20.728634,-103.541
+AMERICAS,ST_03_005,20.676702,-103.3731
+AMERICAS,ST_03_051,20.67454,-103.372925
+ANTONIO CASO,ST_02_010,20.656261,-103.24765
+ANTONIO CASO,ST_02_035,20.655827,-103.24741
+AQUILES SERDAN,ST_03_019,20.677792,-103.32755
+AQUILES SERDAN,ST_03_036,20.679045,-103.32642
+ARGENTINA,ST_01_003,20.674837,-103.36114
+AURELIO L. GALLARDO,ST_03_004,20.676628,-103.37643
+AV. PATRIA,ST_01_014,20.67888,-103.42073
+AV. PATRIA,ST_01_033,20.678883,-103.422226
+AVIACION,ST_01_024,20.702953,-103.46039
+AVIACION,ST_1B_001,20.702806,-103.46082
+Abasolo,MM_C125V1_40,20.54983,-103.46946
+Abasolo,MM_C128_136,20.54636,-103.44116
+Acueducto,MP-T-025,20.722734,-103.42113
+Acueducto,mxc_C98_STP_24,20.66424,-103.21935
+Adolf Horn,MP-T-014,20.577204,-103.360695
+Agrícola,MP-T-004,20.616802,-103.42905
+Agua Azul,MM_011,20.657825,-103.35099
+Agua Azul,MM_044,20.658386,-103.35076
+Alameda,MM_016,20.680222,-103.339134
+Alameda,MM_039,20.680227,-103.33917
+Alamitos,ST_04_014,20.764395,-103.43907
+Albaterra,ST_04_030,20.847982,-103.44554
+Albaterra,ST_04_047,20.84803,-103.445816
+Aldama,MM_A19_95,20.53255,-103.36778
+Aldama,MM_A20_18,20.53242,-103.36763
+Aldama,MM_C10_44,20.56921,-103.441
+Aldama,MM_C122_108,20.65243,-103.23483
+Aldama,MM_C125V1_138,20.54861,-103.47067
+Alhambra,ST_04_052,20.808279,-103.45629
+Allende,MM_A06_25,20.60523,-103.34102
+Allende,MM_A06_42,20.60543,-103.34096
+Alta Vista,MM_C43V3_104,20.74503,-103.39357
+Amanilalpan,MM_C46V1_21,20.61742,-103.26908
+Amaranto,ST_04_024,20.80761,-103.45605
+Amaranto 1,ST_04_025,20.809715,-103.45544
+Amatitan,MM_C07V1_08,20.69078,-103.26455
+Amatitan,mxc_C07V1_STP_08,20.69078,-103.26455
+Andrés Blancarte,MM_C07V1_10,20.69546,-103.27269
+Andrés Blancarte,mxc_C07V1_STP_10,20.69546,-103.27269
+Andrés Renteria,MM_C17_08,20.64352,-103.27566
+Andrés Sandoval,MM_C27_99,20.70899,-103.287
+Andrés Sandoval,mxc_C27_STP_99,20.70899,-103.287
+Anillo Periférico Norte,MM_A05_13,20.72144,-103.31725
+Anillo Periférico Norte,MM_A16_31,20.72156,-103.31773
+Anillo Periférico Norte Manuel Gómez Morin,MM_C120_05,20.69785,-103.2754
+Anillo Periférico Norte Manuel Gómez Morin,mxc_C98_STP_21,20.63514,-103.20956
+Anillo Periférico Norte Manuel Gómez Morin,mxc_C98_STP_91,20.67687,-103.23326
+Anillo Periférico Norte Manuel Gómez Morin,mxc_C98_STP_93,20.67137,-103.2266
+Anillo Periférico Norte Manuel Gómez Morin,mxc_C98_STP_97,20.63513,-103.20993
+Antigua Carretera a Chapala,MM_A08_1,20.5475,-103.32975
+Antigua Carretera a Chapala,MM_A08_101,20.55418,-103.33171
+Antigua Carretera a Chapala,MM_A08_102,20.55282,-103.33121
+Antigua Carretera a Chapala,MM_A08_103,20.54778,-103.32998
+Antigua Carretera a Chapala,MM_A08_106,20.54121,-103.32859
+Antigua Carretera a Chapala,MM_A08_3,20.55087,-103.3306
+Antigua Carretera a Chapala,MM_A08_4,20.55276,-103.33107
+Antigua Carretera a Chapala,MM_A08_6,20.55476,-103.33162
+Antigua Carretera a Chapala,MM_A08_7,20.55693,-103.33208
+Antigua Carretera a Chapala,MM_A08_8,20.55807,-103.33217
+Antigua Carretera a Chapala,MM_A09_17,20.57765,-103.33172
+Antigua Carretera a Chapala,MM_A09_18,20.57904,-103.33141
+Antigua Carretera a Chapala,MM_A09_19,20.57985,-103.33141
+Antigua Carretera a Chapala,MM_A09_20,20.58106,-103.33158
+Antigua Carretera a Chapala,MM_A09_21,20.58206,-103.33176
+Antigua Carretera a Chapala,MM_A09_66,20.5824,-103.33198
+Antigua Carretera a Chapala,MM_A09_67,20.58132,-103.33181
+Antigua Carretera a Chapala,MM_A09_68,20.5801,-103.33162
+Antigua Carretera a Chapala,MM_A09_69,20.57826,-103.33166
+Antigua Carretera a Chapala,MM_A09_70,20.57753,-103.33187
+Antonio Caso,MM_C105_39,20.65638,-103.24763
+Antonio Caso,MM_C105_40,20.65439,-103.24753
+Antonio Caso,MM_T19C05_01,20.65491,-103.2475
+Antonio Ramírez,MM_C128_142,20.53212,-103.4316
+Aquiles Serdán,MM_C12V1_06,20.55168,-103.43937
+Arco Arabigo,MM_C121B_15,20.73803,-103.4106
+Arco Del Triunfo - Arco Iris,MP-C-082,20.740448,-103.40796
+Arco Iris,MM_C121B_13,20.74078,-103.40797
+Arcos De Zapopan,MT-L3-101,20.741173,-103.4074
+Arcos de la Estrella,ST_04_003,20.743912,-103.41071
+Arcos de la Estrella,ST_04_071,20.743853,-103.41159
+Arcos del Triunfo,ST_04_002,20.741383,-103.407
+Arcos del Triunfo,ST_04_072,20.741165,-103.40784
+Arena Guadalajara,MM_C23_06,20.71835,-103.3109
+Arena Guadalajara,mxc_C23_STP_06,20.71835,-103.3109
+Arequipa,MM_A20_94,20.51286,-103.36491
+Aristides,MM_A17_16,20.60627,-103.34756
+Aristides,MM_A17_31,20.60645,-103.34751
+Arquimides,MM_C38V1_32,20.6627,-103.28788
+Artemisa,MM_A06_23,20.60134,-103.34195
+Artemisa,MM_A06_44,20.60141,-103.34208
+Artes Plasticas,MM_A07_18,20.61692,-103.3443
+Artes Plásticas,MM_003,20.616291,-103.3434
+Artes Plásticas,MM_052,20.616772,-103.34375
+Artes Plásticas,MM_A07_16,20.61496,-103.34821
+Artesanos,MP-T-021,20.582493,-103.33633
+Arturo Tolentino,MM_C27_98,20.71225,-103.29202
+Arturo Tolentino,mxc_C27_STP_98,20.71225,-103.29202
+Atemajac,MT-L1_17,20.716158,-103.354416
+Atotonilco,MM_C136_08,20.75807,-103.43848
+Atotonilco,MM_T19C01_01,20.75834,-103.4386
+Atotonilco,ST_04_012,20.761868,-103.43565
+Atotonilco,ST_04_064,20.761515,-103.43568
+Atotonilco El Alto,mxc_C122_STP_93,20.69006,-103.26397
+Auditorio,MT-L1_20,20.736023,-103.3505
+Aurelio Ortega,MM_C37V1_76,20.66259,-103.30172
+Autlan,MM_A07_7,20.60884,-103.35235
+Av. Adolf Bernard Horn Junior,MM_A18_47,20.57749,-103.36118
+Av. Adolf Bernard Horn Junior,MM_A19_39,20.54718,-103.3532
+Av. Adolf Bernard Horn Junior,MM_A21_71,20.54684,-103.35284
+Av. Adolfo López Mateos Sur,MM_T19C07_153,20.58079,-103.44825
+Av. Artesanos,MM_T19C05_32,20.71271,-103.29746
+Av. Artesanos,mxc_C69_STP_105,20.71271,-103.29742
+Av. Aviación,MM_C110V1_14,20.74596,-103.44676
+Av. Aviación,MM_C110V1_79,20.71291,-103.4569
+Av. Belisario Dominguez,MM_C22_104,20.71346,-103.30072
+Av. Belisario Dominguez,mxc_C22_STP_104,20.71346,-103.30072
+Av. Camino Real,MM_A19_30,20.52984,-103.36986
+Av. Cerro de Alcalá,MM_A19_122,20.49491,-103.35915
+Av. Champagnat,MM_A19_94,20.5359,-103.36489
+Av. Cihualpilli,MM_T13CC04_38,20.63372,-103.2436
+Av. Cristobal Colón,MM_C101_61,20.60735,-103.40414
+Av. Cristobal Colón Norte,MM_C100_39,20.60642,-103.40072
+Av. De Las Palmares,MM_C68_172,20.7408,-103.41567
+Av. De Las Palmeras,MM_T17_1_38,20.74105,-103.41629
+Av. De Los Tabachines,MM_C117_78,20.7336,-103.36014
+Av. De Los Tabachines,mxc_C117_STP_78,20.7336,-103.36014
+Av. El Mirador,MM_C61_70,20.60901,-103.28637
+Av. Federalistas,MM_5101,20.75033,-103.42799
+Av. Federalistas,ST_04_067,20.754074,-103.425446
+Av. Francisco Javier Mina,MM_T02_74,20.66586,-103.30702
+Av. General Ramón Corona,MM_C110V1_18,20.73239,-103.45134
+Av. Imperio Sur,MM_T19C05_43,20.72578,-103.33725
+Av. Imperio Sur,mxc_C117_STP_72,20.72575,-103.33711
+Av. Industria Textil,MM_C43V3_103,20.74323,-103.39213
+Av. Industria Textil,MM_C43V3_13,20.74274,-103.39192
+Av. Inglaterra,MM_C01_P_06,20.69969,-103.45224
+Av. Jesús Michel Gonzalez,MM_C100_34,20.58839,-103.38369
+Av. Jesús Michel González,MM_C102_138,20.51516,-103.41083
+Av. Jose Parres Arias,MM_C43V1_49,20.73905,-103.37995
+Av. Juárez,MM_C122_21,20.65233,-103.23453
+Av. La Tijera,MM_C123V1_82,20.58533,-103.44608
+Av. Los Fresnos,MM_C102_35,20.52206,-103.39041
+Av. Malecón,mxc_C07V1_STP_92,20.69335,-103.2699
+Av. Manuel María Ponce,MM_C37V1_78,20.66173,-103.29311
+Av. Mariano Otero,MM_C42_12,20.63021,-103.43546
+Av. Padre Xavier Scheifler de Amezaga,MM_C103_100,20.60935,-103.41241
+Av. Paseo de los Conejos,MM_C07V2_105,20.68338,-103.25153
+Av. Paseo de los Conejos,mxc_C07V2_STP_105,20.68338,-103.25153
+Av. Paseo del Palomar,MM_C125V1_56,20.58987,-103.44309
+Av. Plutarco Elías Calles,MM_T19C03_64,20.66233,-103.29872
+Av. Presa de Osorio,MM_C38V1_34,20.66309,-103.29137
+Av. Prolongación Alcalde,MM_C117_59,20.72867,-103.34657
+Av. Prolongación Alcalde,mxc_C117_STP_59,20.72867,-103.34657
+Av. Puerto Melaque,MM_C07V2_36,20.68021,-103.30201
+Av. Puerto Melaque,MM_C08_62,20.68259,-103.31121
+Av. Río Nilo,MM_C05_57,20.64625,-103.31125
+Av. Salome,MM_A07_26,20.61156,-103.34828
+Av. San Victor,MM_A19_41,20.55512,-103.36214
+Av. San Victor,MM_A19_86,20.55535,-103.36299
+Av. Santa Ana,MM_C103_41,20.51007,-103.37116
+Av. Santa Margarita,MM_C110V1_83,20.73231,-103.45103
+Av. Tonaltecas,MM_C106_70,20.61861,-103.24899
+Av. Tonalá,MM_T13CC04_83,20.61916,-103.24806
+Av. Torremolinos,MM_C73_84,20.74683,-103.40248
+Av. Valdepeñas,MM_C43V3_105,20.74594,-103.39803
+Av. Valle de Tesistan,MM_C136_67,20.75308,-103.43156
+Av. Vicente Guerrero,MM_T17_64,20.6081,-103.43106
+Av. Vicente Guerrero,MM_T19C07_60,20.60857,-103.43118
+Av. de Los Altos,MM_A19_27,20.52897,-103.37896
+Av. de Los Altos,MM_A19_99,20.52909,-103.37952
+Av. de la Cruz,MM_C26_13,20.69441,-103.3094
+Av. de las Uvas,MM_C102_134,20.51531,-103.39199
+Av. de los Setos,MM_C101_85,20.52002,-103.41971
+Av. del Ajonjolí,MM_T17_1_39,20.73943,-103.41368
+Av. del Deportivo,MM_C103_101,20.6081,-103.40719
+Av. del Paraíso,MM_A19_36,20.54221,-103.35984
+Av. del Paraíso,MM_C111V3_117,20.54272,-103.35963
+Av. los Encinos,MM_C102_137,20.50965,-103.40121
+Avenida 16 de Septiembre,MM_T14C01_111,20.66671,-103.34853
+Avenida 8 de Julio,MM_T14B_127,20.67436,-103.35247
+Avenida Adolf Bernard Horn Junior,MM_A21_15,20.52266,-103.34462
+Avenida Adolf Bernard Horn Junior,MM_A21_16,20.52703,-103.34603
+Avenida Adolf Bernard Horn Junior,MM_A21_17,20.52914,-103.34674
+Avenida Adolf Bernard Horn Junior,MM_A21_18,20.53533,-103.34877
+Avenida Adolf Bernard Horn Junior,MM_A21_19,20.5386,-103.34978
+Avenida Adolf Bernard Horn Junior,MM_A21_20,20.54697,-103.35252
+Avenida Adolf Bernard Horn Junior,MM_A21_72,20.53876,-103.35006
+Avenida Adolf Bernard Horn Junior,MM_A21_73,20.53565,-103.34901
+Avenida Adolf Bernard Horn Junior,MM_A21_74,20.5295,-103.34701
+Avenida Adolf Bernard Horn Junior,MM_A21_75,20.52739,-103.34632
+Avenida Adolf Bernard Horn Junior,MM_A21_76,20.52252,-103.34471
+Avenida Adolfo López Mateos Sur,MM_C125V1_135,20.55676,-103.46533
+Avenida Adolfo López Mateos Sur,MM_C125V1_137,20.55197,-103.46847
+Avenida Adolfo López Mateos Sur,MM_C125V1_49,20.57298,-103.45423
+Avenida Antonio Diaz Soto y Gama,MM_A03_2,20.7179,-103.32265
+Avenida Antonio Diaz Soto y Gama,MM_A03_27,20.72242,-103.33359
+Avenida Antonio Diaz Soto y Gama,MM_A03_29,20.72156,-103.33087
+Avenida Antonio Diaz Soto y Gama,MM_A03_3,20.71884,-103.32484
+Avenida Antonio Diaz Soto y Gama,MM_A03_30,20.72054,-103.32901
+Avenida Antonio Diaz Soto y Gama,MM_A03_31,20.71938,-103.32638
+Avenida Antonio Diaz Soto y Gama,MM_A03_32,20.7188,-103.325
+Avenida Antonio Diaz Soto y Gama,MM_A03_33,20.7184,-103.32408
+Avenida Antonio Diaz Soto y Gama,MM_A03_34,20.71784,-103.32276
+Avenida Antonio Diaz Soto y Gama,MM_A03_5,20.72057,-103.32883
+Avenida Antonio Diaz Soto y Gama,MM_A03_6,20.72159,-103.33066
+Avenida Antonio Diaz Soto y Gama,MM_A03_8,20.72249,-103.33335
+Avenida Antonio Diaz Soto y Gama,MM_A03_9,20.72252,-103.33487
+Avenida Belisario Domínguez,MM_A05_26,20.72305,-103.29326
+Avenida Camino Real a Colima,MM_C09_12,20.53744,-103.47196
+Avenida Camino Real a Colima,MM_C09_13,20.53976,-103.46932
+Avenida Camino Real a Colima,MM_C09_14,20.54122,-103.46779
+Avenida Camino Real a Colima,MM_C09_57,20.54375,-103.46561
+Avenida Cantaros De Ceramica,MM_A21_12,20.50659,-103.34036
+Avenida Cantaros De Ceramica,MM_A21_79,20.50703,-103.34056
+Avenida Cerro de Alcalá,MM_A21_6,20.49767,-103.35954
+Avenida Cerro la Campana,MM_A19_3,20.4942,-103.35607
+Avenida Circunvalación Oblatos,MM_C13V2_17,20.68888,-103.29698
+Avenida Concepción,MM_A19_92,20.53936,-103.36216
+Avenida Concepción,MM_T14C01_27,20.52915,-103.37866
+Avenida De La Escultura,MM_A06_34,20.61293,-103.34199
+Avenida De La Escultura,MM_A07_24,20.61216,-103.34443
+Avenida De La Escultura,MM_A09_41,20.61289,-103.34152
+Avenida De La Escultura,MM_A17_19,20.61101,-103.34677
+Avenida De La Escultura,MM_A17_20,20.61149,-103.34552
+Avenida De La Escultura,MM_A17_27,20.6118,-103.34533
+Avenida De La Escultura,MM_A17_28,20.61118,-103.34687
+Avenida De La Pintura,MM_A07_25,20.61382,-103.34545
+Avenida Delas rosas,mxc_C98_STP_103,20.58597,-103.2219
+Avenida Experiencia,MM_A03_13,20.72133,-103.33968
+Avenida Experiencia,MM_A03_15,20.71821,-103.34069
+Avenida Experiencia,MM_A03_16,20.7165,-103.341
+Avenida Experiencia,MM_A03_17,20.71508,-103.34139
+Avenida Experiencia,MM_A03_19,20.71624,-103.34087
+Avenida Experiencia,MM_A03_20,20.71793,-103.34059
+Avenida Experiencia,MM_A03_22,20.72103,-103.3396
+Avenida Experiencia,MM_A03_23,20.72248,-103.33902
+Avenida Experiencia,MM_C138_47,20.71973,-103.34013
+Avenida Granada,MM_A21_11,20.49918,-103.33961
+Avenida Granada,MM_A21_81,20.49917,-103.34339
+Avenida Granada,MM_A21_82,20.49983,-103.35288
+Avenida Idalia,MM_T19C05_09,20.66752,-103.25408
+Avenida Joaquín Amaro,MM_C08_02,20.71279,-103.29531
+Avenida Joaquín Amaro,MM_C08_86,20.71142,-103.29494
+Avenida Joaquín Amaro,MM_C16_05,20.68827,-103.29383
+Avenida Joaquín Amaro,MM_C21_07,20.6927,-103.29224
+Avenida Joaquín Amaro,MM_C21_12,20.70373,-103.29247
+Avenida Joaquín Amaro,MM_C32V1_27,20.6932,-103.29222
+Avenida Joaquín Amaro,MM_C32V1_76,20.69404,-103.29174
+Avenida Joaquín Amaro,MM_C68_124,20.69971,-103.29067
+Avenida Joaquín Amaro,MM_C68_47,20.70255,-103.29211
+Avenida Joaquín Amaro,MM_C68_51,20.69741,-103.2907
+Avenida Joaquín Amaro,mxc_C27_STP_97,20.71232,-103.29528
+Avenida La Llave,MM_A08_15,20.5653,-103.34663
+Avenida La Llave,MM_A08_90,20.56429,-103.34727
+Avenida La Llave,MM_A08_91,20.56522,-103.34648
+Avenida La Llave,MM_A08_92,20.56637,-103.34608
+Avenida Patria,MM_C06_91,20.61455,-103.31915
+Avenida Punto Sur,MM_C125V1_130,20.57014,-103.4565
+Avenida Río Nilo,MM_C58V2_35,20.64875,-103.31894
+Avenida Río Nilo,MM_T11B_53,20.64642,-103.31213
+Avenida Salome Piña,MM_A07_9,20.6098,-103.35061
+Avenida San Blas,MM_A08_13,20.56634,-103.34453
+Avenida San Blas,MM_A08_14,20.56668,-103.34589
+Avenida San Blas,MM_A08_93,20.56643,-103.34491
+Avenida San Martin,MM_A10_5,20.59263,-103.33084
+Avenida San Martin,MM_A10_69,20.59282,-103.331
+Avenida Santa Ana,MM_C76V2_02,20.52603,-103.38593
+Avenida Santa Margarita,MM_T19C05_74,20.73008,-103.429
+Avenida Tonaltecas,MM_C46V1_167,20.62378,-103.24649
+Avenida Zalatitan,MM_T19C05_07,20.66336,-103.25149
+Avenida Zalatitan,MM_T19C05_137,20.66357,-103.25153
+Avenida de la Solidaridad Iberoamericana,MM_C102_101,20.59696,-103.32476
+Avenida de las Rosas,MM_A06_17,20.59612,-103.3397
+Avenida de las Rosas,MM_A06_18,20.59653,-103.34044
+Avenida de las Rosas,MM_A06_19,20.59695,-103.34137
+Avenida de las Rosas,MM_A06_20,20.59749,-103.3426
+Avenida de las Rosas,MM_A06_47,20.59759,-103.34284
+Avenida de las Rosas,MM_A06_48,20.59732,-103.34242
+Avenida de las Rosas,MM_A06_49,20.59692,-103.3415
+Avenida de las Rosas,MM_A06_50,20.59655,-103.34065
+Avenida de las Rosas,MM_A06_51,20.59621,-103.33979
+Avenida de las Rosas,MM_A10_66,20.59488,-103.32978
+Avenida de las Rosas,MM_A10_67,20.59474,-103.3312
+Avenida de las Rosas,MM_A10_7,20.59455,-103.33125
+Avenida de las Rosas,MM_A10_8,20.59466,-103.32971
+Avenida de las Torres,MM_C58V1_17,20.62527,-103.29122
+Avenida de los Artesanos,MM_A08_79,20.58207,-103.351
+Avenida de los Artesanos,MM_A15_1,20.58154,-103.34089
+Avenida de los Artesanos,MM_A15_2,20.58116,-103.34222
+Avenida de los Artesanos,MM_A15_3,20.58076,-103.34361
+Avenida de los Artesanos,MM_A15_4,20.58062,-103.345
+Avenida de los Artesanos,MM_A15_41,20.58134,-103.34932
+Avenida de los Artesanos,MM_A15_42,20.58101,-103.34796
+Avenida de los Artesanos,MM_A15_43,20.58071,-103.34652
+Avenida de los Artesanos,MM_A15_44,20.58042,-103.34511
+Avenida de los Artesanos,MM_A15_45,20.58051,-103.34366
+Avenida de los Artesanos,MM_A15_46,20.5809,-103.34232
+Avenida de los Artesanos,MM_A15_47,20.58144,-103.34042
+Avenida de los Artesanos,MM_A15_6,20.58118,-103.34755
+Avenida de los Artesanos,MM_A15_7,20.58148,-103.34896
+Avenida de los Artesanos,MM_A20_62,20.58237,-103.35282
+Avenida de los Cantaros,MM_A21_13,20.51269,-103.34128
+Avenida de los Cantaros,MM_A21_78,20.5127,-103.34155
+Avenida de los Maestros,MM_C68_67,20.69478,-103.33722
+Aviación,MP-C-088,20.728243,-103.452255
+Aviación - A La Base Aerea,MP-C-095,20.744705,-103.44757
+Aviación - De Las Flores,MP-C-089,20.723415,-103.45398
+Aviación - Granados,MP-C-096,20.744259,-103.44745
+Aviación - Porta Real,MP-C-087,20.728548,-103.45245
+Aviación - San Rafael,MP-C-090,20.723843,-103.45355
+Aviación - Ángulo,MP-C-092,20.714952,-103.456276
+Azalea,MM_C64_10,20.6714,-103.25643
+Azucena,MM_C07V2_08,20.67909,-103.24109
+BASILIO VADILLO,ST_02_011,20.653997,-103.24801
+BASILIO VADILLO,ST_02_034,20.653782,-103.24799
+BELENES,ST_1B_019,20.727577,-103.550415
+BIMBO,ST_1B_002,20.708109,-103.4654
+BOSQUES VALLARTA,ST_1B_005,20.717928,-103.481064
+Barcelona,MM_T19C07_140,20.55457,-103.44903
+Barranca De Huentitán,MP-T-041,20.713186,-103.30093
+Barranca del Oro,mxc_C18_STP_16,20.70232,-103.2803
+Barranquitas,MM_C07V2_12,20.68608,-103.25649
+Barranquitas,mxc_C07V2_STP_12,20.68608,-103.25649
+Base Aerea,ST_04_063,20.7633,-103.43815
+Batalla de Celaya,MM_C05_21,20.61873,-103.31939
+Batalla de Torreón,MM_C05_68,20.61839,-103.31826
+Batalla de Trinidad,MM_C06_35,20.61777,-103.31238
+Belenes,MM_C43V1_48,20.73818,-103.37661
+Belisario Domínguez,MT-L2_07,20.672777,-103.331474
+Benito Juárez,MM_C74_116,20.6488,-103.44336
+Benjamín Gutiérrez,MM_C138_51,20.72237,-103.33505
+Betania,MM_C07V1_91,20.69532,-103.27314
+Betania,mxc_C07V1_STP_91,20.69532,-103.27314
+Biblia,MM_T19_13,20.59409,-103.31724
+Bicentenario,MM_014,20.668974,-103.34522
+Bicentenario,MM_041,20.670109,-103.344604
+Blvd. Chulavista,MM_A21_4,20.495,-103.35894
+Blvd. Colón,MM_A19_18,20.5126,-103.3783
+Blvd. Prolongación Mariano Otero,MM_C123V1_81,20.58209,-103.44818
+Blvd. San Pedro Sula,MM_T14C01_163,20.52181,-103.37776
+Blvd. Valle del Silicio,MM_T19C07_151,20.57566,-103.44268
+Blvrd. Sao Paulo,MM_A19_13,20.51169,-103.36533
+Blvrd. Sao Paulo,MM_C103_43,20.50669,-103.36939
+Blvrd. Tegucigalpa,MM_C111V3_126,20.52722,-103.37819
+Bocanegra - Emilio Rabaza,MP-C-051,20.680258,-103.30603
+Bocanegra - Fco De Ayza,MP-C-054,20.67199,-103.308945
+Bocanegra - Mendiola,MP-C-056,20.66787,-103.31037
+Boulevard Nuestra Señora de Las Mercedes,MM_A19_20,20.51708,-103.38056
+Boulevard Nuevo Mexico,MM_A19_106,20.51701,-103.38125
+Boulevard Nuevo Mexico,MM_A19_22,20.5179,-103.38701
+Boulevard Santa Fe,MM_A19_100,20.5263,-103.38442
+Boulevard Santa Fe,MM_A19_103,20.51997,-103.38735
+Boulevard Santa Fe,MM_A19_104,20.51849,-103.38754
+Boulevard Santa Fe,MM_A19_23,20.51949,-103.38726
+Boulevard Santa Fe,MM_A19_25,20.52264,-103.38643
+Boulevard Santa Fe,MM_A19_26,20.526,-103.38422
+CABAÑAS,ST_03_016,20.677635,-103.33644
+CABAÑAS,ST_03_039,20.678614,-103.33564
+CAMARA DE COMERCIO,ST_01_036,20.675608,-103.406975
+CAMPOS VIDA,ST_02_008,20.658815,-103.25125
+CAMPOS VIDA,ST_02_037,20.659025,-103.250786
+CAPUCHINA,ST_02_007,20.65889,-103.25353
+CAPUCHINA,ST_02_038,20.659124,-103.25343
+CAPUCHINAS,ST_03_044,20.678095,-103.35103
+CENTRO MAGNO,ST_01_008,20.67444,-103.380684
+CFE Toluquilla,MM_A19_44,20.5644,-103.36582
+CFE Toluquilla,MM_A19_83,20.56484,-103.36606
+CHAPULTEPEC,ST_01_005,20.674591,-103.36973
+CHAPULTEPEC,ST_03_007,20.676804,-103.369225
+CIPRÉS,ST_02_013,20.64991,-103.2532
+CIPRÉS,ST_02_032,20.649525,-103.25308
+CIUDAD GRANJA,ST_01_018,20.686834,-103.44417
+CIUDAD GRANJA,ST_01_028,20.686548,-103.44432
+CLUB DE INDUSTRIALES,ST_01_043,20.676628,-103.37643
+CLUB DE INDUSTRIALES,ST_03_052,20.674511,-103.37651
+CONCENTRO,ST_01_021,20.69362,-103.45273
+CONCENTRO,ST_01_025,20.69294,-103.45248
+CONSULADO,ST_03_049,20.674675,-103.36687
+CRUCERO NEXTIPAC,ST_1B_015,20.729134,-103.53998
+CRUZ BERNABÉ,ST_02_029,20.642458,-103.252655
+CUCBA,ST_1B_011,20.742632,-103.51318
+Calandria,MM_C100_35,20.59103,-103.38595
+Calandrias,ST_04_020,20.776684,-103.455986
+Calandrias,ST_04_056,20.776718,-103.45659
+Calle Alicia Grovet,MM_A13_43,20.61823,-103.36007
+Calle Angel Martínez,MM_A03_28,20.72203,-103.33217
+Calle Angel Martínez,MM_A03_7,20.72205,-103.33189
+Calle Arlanza,mxc_C98_STP_23,20.65506,-103.21025
+Calle Barreiro,MM_A03_14,20.71993,-103.34025
+Calle Benigno López,MM_A13_2,20.6163,-103.36152
+Calle Benito Juárez,MM_A10_54,20.60238,-103.33201
+Calle Bernardo Gutiérrez de Lara,MM_A16_21,20.72674,-103.32663
+Calle Bobadilla,MM_A08_22,20.57417,-103.35589
+Calle Canuto Elías,MM_A13_6,20.61837,-103.36296
+Calle Canuto Elías,MM_A13_7,20.61928,-103.36282
+Calle Cardenal,MM_A06_27,20.60761,-103.3398
+Calle Cardenal,MM_A06_28,20.60804,-103.34002
+Calle Cardenal,MM_A06_29,20.60883,-103.34027
+Calle Cardenal,MM_A06_37,20.60902,-103.34042
+Calle Cardenal,MM_A08_59,20.60767,-103.33996
+Calle Cardenal,MM_A10_28,20.60323,-103.33724
+Calle Cardenal,MM_A10_29,20.60416,-103.33778
+Calle Cardenal,MM_A10_31,20.60597,-103.33905
+Calle Cardenal,MM_A10_45,20.60516,-103.33864
+Calle Cardenal,MM_A10_46,20.60429,-103.338
+Calle Cardenal,MM_A10_47,20.60326,-103.33741
+Calle Cardenal,MM_A10_48,20.60257,-103.33711
+Calle Carretera a Chapala,MM_C67V1_76,20.61722,-103.32201
+Calle Cerrada Privada Camichin,MM_C125V1_44,20.56012,-103.46271
+Calle Cerro Copey,MM_C41V1_01,20.49235,-103.35859
+Calle Cerro Torrecillas,MM_A21_85,20.49785,-103.35939
+Calle Comonfort,MM_T07_84,20.6033,-103.39836
+Calle Cristóbal Colón,MM_A17_6,20.59856,-103.35019
+Calle El Eden,MM_A08_5,20.55421,-103.33146
+Calle Emiliano Zapata,MM_A09_12,20.57323,-103.32104
+Calle Emiliano Zapata,MM_A09_13,20.57389,-103.32348
+Calle Emiliano Zapata,MM_A09_14,20.57443,-103.32482
+Calle Emiliano Zapata,MM_A09_16,20.57592,-103.32833
+Calle Emiliano Zapata,MM_A09_71,20.57585,-103.32847
+Calle Emiliano Zapata,MM_A09_72,20.57536,-103.32735
+Calle Emiliano Zapata,MM_A09_73,20.57443,-103.32511
+Calle Emiliano Zapata,MM_A09_74,20.57395,-103.32386
+Calle Emiliano Zapata,MM_A09_75,20.57298,-103.32112
+Calle Ermita,MM_A10_1,20.58735,-103.32984
+Calle Ermita,MM_A10_2,20.58899,-103.33012
+Calle Ermita,MM_A10_3,20.58957,-103.33024
+Calle Ermita,MM_A10_4,20.59184,-103.3307
+Calle Ermita,MM_A10_71,20.58975,-103.33045
+Calle Federico Medrano,MM_C02_66,20.6643,-103.32493
+Calle Federico Medrano,MM_C02_68,20.66271,-103.32047
+Calle Federico Medrano,MM_C68_97,20.66613,-103.33008
+Calle Francisco Corona,MM_A10_18,20.60222,-103.33023
+Calle Francisco Corona,MM_A10_19,20.60231,-103.33073
+Calle Francisco Corona,MM_A10_20,20.60237,-103.33124
+Calle Francisco Corona,MM_A10_21,20.60245,-103.33188
+Calle Francisco Corona,MM_A10_23,20.60249,-103.33299
+Calle Francisco Corona,MM_A10_24,20.60253,-103.33418
+Calle Francisco Corona,MM_A10_25,20.60256,-103.33487
+Calle Francisco Corona,MM_A10_26,20.60255,-103.33552
+Calle Francisco Corona,MM_A10_27,20.60252,-103.33691
+Calle Francisco Corona,MM_A10_49,20.60247,-103.33564
+Calle Francisco Corona,MM_A10_50,20.60248,-103.33505
+Calle Francisco Corona,MM_A10_51,20.60246,-103.33434
+Calle Francisco Corona,MM_A10_52,20.60242,-103.33318
+Calle Francisco Corona,MM_A10_53,20.60239,-103.33255
+Calle Francisco Corona,MM_A10_55,20.60227,-103.33132
+Calle Francisco Corona,MM_A10_56,20.60221,-103.33067
+Calle Francisco Corona,MM_A10_57,20.60215,-103.33019
+Calle Francisco Gonzalez Bocanegra,MM_C21_02,20.69043,-103.3022
+Calle Francisco Indalecio Madero,MM_A09_64,20.58949,-103.3331
+Calle Francisco Pastor,MM_A16_11,20.73413,-103.32218
+Calle Fray Junípero Serra,MM_C107_20,20.69161,-103.34372
+Calle Gral Genovevo Rivas Guillén,MM_C66V2_94,20.68807,-103.30446
+Calle Gral Genovevo Rivas Guillén,MM_C66V2_95,20.69014,-103.30391
+Calle Guayabo,MM_A20_27,20.55356,-103.35497
+Calle Guayabo,MM_A20_74,20.55363,-103.35511
+Calle Hacienda La Calera,MM_C64_29,20.69727,-103.29055
+Calle Ignacio Mejia,MM_A17_37,20.59981,-103.34974
+Calle Ignacio Mejia,MM_A17_38,20.59981,-103.35039
+Calle Ignacio Mejia,MM_A17_7,20.59965,-103.35037
+Calle Ignacio Mejia,MM_A17_8,20.59971,-103.34987
+Calle Incalpa,MM_A08_83,20.57449,-103.35597
+Calle Javier Mina,MM_A20_14,20.53043,-103.36366
+Calle Javier Mina,MM_A20_15,20.53054,-103.36502
+Calle Javier Mina,MM_A20_16,20.53143,-103.36622
+Calle Javier Mina,MM_A20_17,20.53189,-103.36694
+Calle Javier Mina,MM_A20_83,20.53182,-103.367
+Calle Javier Mina,MM_A20_84,20.53133,-103.36631
+Calle Javier Mina,MM_A20_85,20.53051,-103.36512
+Calle Javier Mina,MM_A20_86,20.53028,-103.36368
+Calle Jazmín,MM_A06_21,20.59839,-103.34257
+Calle Jazmín,MM_A06_46,20.59859,-103.34272
+Calle Jesus Amavisca,MM_A16_24,20.72533,-103.32412
+Calle Jesus Amavisca,MM_A16_25,20.72421,-103.32401
+Calle Jesus Amavisca,MM_A16_26,20.72356,-103.32391
+Calle Jesús García,MM_C21_69,20.68918,-103.34686
+Calle Joaquin Mucel,MM_A16_23,20.72691,-103.32437
+Calle Joaquin Mucel,MM_A16_36,20.72723,-103.32038
+Calle Joaquin Mucel,MM_A16_37,20.72727,-103.32208
+Calle Joaquin Mucel,MM_A16_38,20.72703,-103.32412
+Calle Joaquin Mucel,MM_A16_39,20.727,-103.32472
+Calle Joaquin Mucel,MM_A16_40,20.72685,-103.32645
+Calle Joaquin Mucel,MM_A16_41,20.72677,-103.32718
+Calle Joaquin Romero,MM_A05_19,20.72163,-103.30603
+Calle Joaquin Romero,MM_A05_20,20.72074,-103.3017
+Calle Joaquin Romero,MM_A05_21,20.72046,-103.30064
+Calle Joaquin Romero,MM_A05_22,20.7202,-103.29971
+Calle Joaquin Romero,MM_A05_23,20.71994,-103.29758
+Calle Joaquin Romero,MM_A05_4,20.71999,-103.29725
+Calle Joaquin Romero,MM_A05_5,20.72025,-103.29943
+Calle Joaquin Romero,MM_A05_6,20.72047,-103.30042
+Calle Joaquin Romero,MM_A05_7,20.72078,-103.30145
+Calle Joaquin Romero,MM_A05_8,20.72168,-103.3058
+Calle Jose Mariano Abasolo,MM_C63_65,20.60994,-103.27563
+Calle José Alcala,MM_A13_37,20.62548,-103.36186
+Calle José Cornejo Franco,MM_A13_44,20.61731,-103.36017
+Calle José Cornejo Franco,MM_A13_5,20.61753,-103.36315
+Calle José Escobar,MM_A13_3,20.61651,-103.36229
+Calle José Luis Verdía,MM_C31_77,20.66117,-103.3391
+Calle José María Canal,MM_A16_22,20.72687,-103.32529
+Calle Juan Carrasco,MM_A16_49,20.73262,-103.32212
+Calle Juan Diego,MM_A17_41,20.59691,-103.35086
+Calle Juan Jose Segura,MM_A07_27,20.61039,-103.34906
+Calle Juan de la Barrera,MM_A09_23,20.58936,-103.33288
+Calle Juan de la Barrera,MM_A09_24,20.59202,-103.33331
+Calle Juan de la Barrera,MM_A09_25,20.59321,-103.33349
+Calle Juan de la Barrera,MM_A09_28,20.59763,-103.3342
+Calle Juan de la Barrera,MM_A09_33,20.6054,-103.33725
+Calle Juan de la Barrera,MM_A09_35,20.60691,-103.33814
+Calle Juan de la Barrera,MM_A09_36,20.60815,-103.33892
+Calle Juan de la Barrera,MM_A09_52,20.60696,-103.33836
+Calle Juan de la Barrera,MM_A09_53,20.60631,-103.33783
+Calle Juan de la Barrera,MM_A09_54,20.60544,-103.33738
+Calle Juan de la Barrera,MM_A09_55,20.60477,-103.33716
+Calle Juan de la Barrera,MM_A09_59,20.59763,-103.33436
+Calle Juan de la Barrera,MM_A09_62,20.59382,-103.33377
+Calle Juan de la Barrera,MM_A09_63,20.5919,-103.33346
+Calle La Paz,MM_A08_21,20.57268,-103.35566
+Calle Loma Verde,MM_A15_34,20.58798,-103.35168
+Calle Luis Covarrubias,MM_A13_41,20.62031,-103.36291
+Calle Luis Covarrubias,MM_A13_42,20.61859,-103.35914
+Calle Luis J. Jiménez,MM_A13_4,20.61678,-103.36327
+Calle López Cotilla,MM_C127V1_17,20.54715,-103.47121
+Calle Mariano Olivares,MM_A16_14,20.73219,-103.32527
+Calle Mariano Olivares,MM_A16_47,20.73211,-103.3255
+Calle Martin Corona,MM_A10_16,20.60111,-103.32916
+Calle Martin Corona,MM_A10_17,20.60191,-103.32933
+Calle Martínez,MM_A09_15,20.57539,-103.32711
+Calle María Ciudadano Bancalari,MM_A13_10,20.62189,-103.36308
+Calle María Ciudadano Bancalari,MM_A13_11,20.62286,-103.36272
+Calle María Ciudadano Bancalari,MM_A13_12,20.62431,-103.36212
+Calle María Ciudadano Bancalari,MM_A13_13,20.62529,-103.36171
+Calle María Ciudadano Bancalari,MM_A13_14,20.62608,-103.36136
+Calle María Ciudadano Bancalari,MM_A13_15,20.62744,-103.36077
+Calle María Ciudadano Bancalari,MM_A13_16,20.62837,-103.36041
+Calle María Ciudadano Bancalari,MM_A13_34,20.62871,-103.36017
+Calle María Ciudadano Bancalari,MM_A13_35,20.6277,-103.3609
+Calle María Ciudadano Bancalari,MM_A13_36,20.62653,-103.36139
+Calle María Ciudadano Bancalari,MM_A13_38,20.62475,-103.36215
+Calle María Ciudadano Bancalari,MM_A13_39,20.62276,-103.363
+Calle María Ciudadano Bancalari,MM_A13_40,20.62137,-103.3636
+Calle María Ciudadano Bancalari,MM_A13_8,20.62046,-103.3636
+Calle María Ciudadano Bancalari,MM_A13_9,20.62114,-103.36345
+Calle María Luisa Martínez,MM_A16_16,20.73077,-103.32699
+Calle María Luisa Martínez,MM_A16_17,20.73007,-103.32724
+Calle María Luisa Martínez,MM_A16_18,20.72917,-103.32741
+Calle María Luisa Martínez,MM_A16_19,20.72843,-103.32745
+Calle María Luisa Martínez,MM_A16_20,20.72683,-103.32741
+Calle María Luisa Martínez,MM_A16_42,20.72835,-103.32732
+Calle María Luisa Martínez,MM_A16_43,20.72909,-103.32729
+Calle María Luisa Martínez,MM_A16_44,20.72974,-103.32718
+Calle María Luisa Martínez,MM_A16_45,20.73056,-103.32694
+Calle María Luisa Martínez,MM_A16_46,20.73161,-103.32653
+Calle Ostión,MM_A08_100,20.55489,-103.33189
+Calle Paseo del Zoológico,MM_A05_10,20.72247,-103.3101
+Calle Paseo del Zoológico,MM_A05_11,20.72189,-103.31148
+Calle Paseo del Zoológico,MM_A05_16,20.72173,-103.31141
+Calle Paseo del Zoológico,MM_A05_17,20.72237,-103.31011
+Calle Pedro García Conde,MM_A13_17,20.62725,-103.35818
+Calle Pedro García Conde,MM_A13_18,20.62678,-103.35715
+Calle Pedro García Conde,MM_A13_19,20.62602,-103.3554
+Calle Pedro García Conde,MM_A13_20,20.62525,-103.35376
+Calle Pedro García Conde,MM_A13_22,20.62445,-103.35199
+Calle Pedro García Conde,MM_A13_23,20.62408,-103.35117
+Calle Pedro García Conde,MM_A13_24,20.62351,-103.34987
+Calle Pedro García Conde,MM_A13_26,20.62355,-103.34965
+Calle Pedro García Conde,MM_A13_28,20.6245,-103.35182
+Calle Pedro García Conde,MM_A13_30,20.62527,-103.35353
+Calle Pedro García Conde,MM_A13_31,20.62607,-103.35526
+Calle Pedro García Conde,MM_A13_32,20.6268,-103.35691
+Calle Pedro García Conde,MM_A13_33,20.62724,-103.35793
+Calle Pelegrin Clave,MM_A07_29,20.6096,-103.35123
+Calle Pelegrin Clave,MM_A07_8,20.6095,-103.35112
+Calle Piedrera,MM_C102_100,20.60798,-103.32822
+Calle Porfirio Neri,MM_A16_29,20.72287,-103.31943
+Calle Privida San Antonio,MM_A10_9,20.59636,-103.32988
+Calle Pulpo,MM_A08_99,20.55709,-103.33235
+Calle Ramon Marquez Galindo,MM_A13_21,20.62491,-103.353
+Calle Ramón Garcés,MM_A16_15,20.73187,-103.32655
+Calle Rio Colorado,MM_A06_2,20.58712,-103.33961
+Calle Rio Colorado,MM_A06_65,20.58758,-103.34076
+Calle Rio Colorado,MM_A06_66,20.5873,-103.34017
+Calle Rio Colorado,MM_A06_67,20.58711,-103.33977
+Calle Rodrigo de Triana,MM_A07_1,20.60216,-103.35516
+Calle Rodrigo de Triana,MM_A07_36,20.60043,-103.3548
+Calle Río Amazonas,MM_A06_59,20.5911,-103.34111
+Calle Río Amazonas,MM_A06_9,20.59089,-103.34103
+Calle Río Amazonas,MM_A08_35,20.59196,-103.34403
+Calle Río Blanco,MM_A06_1,20.58651,-103.3381
+Calle Río Colotlan,MM_A06_5,20.58861,-103.34084
+Calle Río Colotlan,MM_A06_63,20.58869,-103.34094
+Calle Río Grande,MM_A06_14,20.59334,-103.34081
+Calle Río Santiago,MM_A06_69,20.58589,-103.33867
+Calle Río Seco,MM_C102_96,20.62604,-103.30416
+Calle Río de Janeiro,MM_A06_64,20.58797,-103.34128
+Calle Salamanca,MM_A19_105,20.51736,-103.38401
+Calle Salamanca,MM_A19_21,20.5175,-103.38364
+Calle San Francisco,MM_A08_10,20.56402,-103.3432
+Calle San Francisco,MM_A08_16,20.56456,-103.34834
+Calle San Francisco,MM_A08_17,20.56465,-103.34961
+Calle San Francisco,MM_A08_18,20.56486,-103.35209
+Calle San Francisco,MM_A08_87,20.56478,-103.35228
+Calle San Francisco,MM_A08_88,20.56452,-103.34959
+Calle San Francisco,MM_A08_96,20.56388,-103.34321
+Calle San Francisco,MM_A08_97,20.56373,-103.34159
+Calle San Ignacio,MM_A08_9,20.56383,-103.34138
+Calle San Mariano,MM_C18_33,20.68974,-103.3165
+Calle Santa Cecilia,MM_A17_4,20.59678,-103.35072
+Calle Santa Cruz del Valle,MM_A08_19,20.56512,-103.35475
+Calle Santa Cruz del Valle,MM_A08_20,20.56654,-103.35513
+Calle Santa Cruz del Valle,MM_A08_85,20.5668,-103.35535
+Calle Santa Cruz del Valle,MM_A08_86,20.56502,-103.35481
+Calle Santa Cruz del Valle,MM_A20_28,20.5556,-103.3536
+Calle Santa Cruz del Valle,MM_A20_29,20.55862,-103.35411
+Calle Santa Cruz del Valle,MM_A20_30,20.56193,-103.35449
+Calle Santa Cruz del Valle,MM_A20_70,20.56523,-103.35516
+Calle Santa Cruz del Valle,MM_A20_71,20.56188,-103.35467
+Calle Santa Cruz del Valle,MM_A20_72,20.55874,-103.35423
+Calle Santa Cruz del Valle,MM_A20_73,20.55553,-103.35389
+Calle Santa Elena,MM_A06_45,20.60001,-103.34243
+Calle Santa Filomena,MM_A10_65,20.59657,-103.33005
+Calle Santa Gertrudis,MM_A08_11,20.5642,-103.34507
+Calle Santa Gertrudis,MM_A08_94,20.56581,-103.34505
+Calle Santa Gertrudis,MM_A08_95,20.56431,-103.34524
+Calle Santa Inés,MM_A10_10,20.59744,-103.33012
+Calle Santa Inés,MM_A10_11,20.59838,-103.33025
+Calle Santa Inés,MM_A10_64,20.59768,-103.33029
+Calle Santa Mónica,MM_C04_22,20.6854,-103.3495
+Calle Santa Rosa,MM_A10_13,20.59869,-103.32883
+Calle Santa Rosa,MM_A10_62,20.59884,-103.32879
+Calle Santa Rosa,MM_A10_63,20.59864,-103.33014
+Calle Santos Degollado,MM_A07_3,20.60283,-103.35124
+Calle Santos Degollado,MM_A17_39,20.59855,-103.35031
+Calle Tres Consejos,MM_A19_1,20.49003,-103.35575
+Calle Valle de la Misericordia,MM_A08_98,20.5582,-103.33235
+Calle Valle de los Robles,MM_A20_10,20.52437,-103.35887
+Calle Valle de los Robles,MM_A20_9,20.52217,-103.35745
+Calle Volcán Canatlan,MM_A16_51,20.73491,-103.3205
+Calle Volcán Canatlan,MM_A16_52,20.73441,-103.31909
+Calle Volcán Canatlan,MM_A16_53,20.73396,-103.318
+Calle Volcán Colima,MM_A16_50,20.73403,-103.32091
+Calle Volcán Fogo,MM_A16_58,20.73722,-103.31851
+Calle Volcán Fogo,MM_A16_72,20.73742,-103.31854
+Calle Volcán Malinche,MM_A16_66,20.73998,-103.31466
+Calle Volcán Malinche,MM_A16_76,20.73463,-103.31674
+Calle Volcán Malinche,MM_A16_77,20.73376,-103.31707
+Calle Volcán Niebla,MM_A16_48,20.73181,-103.32225
+Calle Volcán San Francisco,MM_A16_78,20.73262,-103.31752
+Calle Volcán San Francisco,MM_A16_79,20.73199,-103.3164
+Calle Volcán San Francisco,MM_A16_8,20.73208,-103.31634
+Calle Volcán San Francisco,MM_A16_80,20.73159,-103.31414
+Calle Volcán San Francisco,MM_A16_9,20.73253,-103.31744
+Calle Volcán Tolimán,MM_A16_55,20.73573,-103.31715
+Calle Volcán Villarrica,MM_A16_10,20.73337,-103.31936
+Calle Volcán Villarrica,MM_A16_67,20.74068,-103.31618
+Calz. Virgen de la Candelaria,MM_T19C07_141,20.55569,-103.45251
+Calzada Federalismo,MM_C117_57,20.73122,-103.35312
+Calzada Federalismo,MM_C117_76,20.73138,-103.3521
+Calzada Federalismo,MM_T15C02_22,20.73171,-103.35297
+Calzada Federalismo,mxc_C117_STP_76,20.73138,-103.3521
+Calzada Gobernador Luis G.Curiel,MM_A06_30,20.61034,-103.34067
+Calzada Gobernador Luis G.Curiel,MM_A06_35,20.61028,-103.34098
+Calzada Gobernador Luis G.Curiel,MM_A06_36,20.60946,-103.34076
+Calzada Gobernador Luis G.Curiel,MM_A07_19,20.61537,-103.34293
+Calzada Gobernador Luis G.Curiel,MM_A07_20,20.61322,-103.34199
+Calzada Gobernador Luis G.Curiel,MM_A13_25,20.62307,-103.34716
+Calzada Independencia Norte,MM_A05_14,20.72238,-103.31643
+Calzada Independencia Norte,MM_A16_30,20.72257,-103.31706
+Calzada Independencia Norte,MM_C117_67,20.72093,-103.31622
+Calzada Independencia Norte,MM_T19C05_105,20.72105,-103.31836
+Calzada Independencia Norte,mxc_C117_STP_65,20.72105,-103.31841
+Calzada Independencia Norte,mxc_C117_STP_67,20.72093,-103.31622
+Calzada José Guadalupe Gallo,MM_C123V1_86,20.60491,-103.43317
+Calzada Juan Pablo II,MM_C108V1_30,20.69177,-103.31002
+Calzada Juan Pablo II,MM_C123V1_20,20.69098,-103.31338
+Calzada Juan Pablo II,MM_C123V1_22,20.68857,-103.3194
+Calzada Juan Pablo II,MM_C27_102,20.70334,-103.28311
+Calzada Juan Pablo II,mxc_C27_STP_102,20.70334,-103.28311
+Camichines,MM_C100_37,20.60079,-103.39464
+Camichines,MM_C27_41,20.71244,-103.28831
+Camichines,mxc_C27_STP_41,20.71244,-103.28831
+Camino,mxc_C38V2_STP_01,20.5671,-103.22594
+Camino,mxc_C98_STP_105,20.56808,-103.22745
+Camino A Matatlán,MM_C27_19,20.66823,-103.23447
+Camino A San Sebastian,MM_C128_137,20.54328,-103.43874
+Camino Al Panteón,MM_C113V1_40,20.57802,-103.36292
+Camino Real,MM_C07V2_07,20.67535,-103.23773
+Camino Real A Agua Amarilla,MM_A19_81,20.57327,-103.36412
+Camino Real a Agua Amarilla,MM_A18_7,20.56908,-103.37398
+Camino Viejo,MM_A05_18,20.72203,-103.30839
+Camino Viejo,MM_A05_9,20.72213,-103.30817
+Camino Viejo a Tesistan,MM_C135_86,20.75603,-103.4354
+Camino Viejo a Tonala,MM_C58V1_14,20.61275,-103.28261
+Camino a Copalita,ST_04_023,20.802221,-103.45743
+Camino a Copalita,ST_04_053,20.802153,-103.45774
+Camino a La Pedrera,MM_C09_09,20.53002,-103.46899
+Camino a La Pedrera,MM_C09_63,20.52983,-103.46916
+Camino a Lomas de Tejada,MM_T14C01_31,20.50807,-103.3936
+Camino a Matatlán,mxc_C07V2_STP_01,20.66956,-103.22401
+Camino a Santa Ana Tepetitlán,MM_C128AV1_89,20.61221,-103.42878
+Camino de los Dolores,MM_A19_112,20.51201,-103.36743
+Camino los Dolores,MM_A20_95,20.51219,-103.36737
+Caoba,MM_A19_97,20.52952,-103.37458
+Capistrano,ST_04_026,20.813711,-103.454445
+Capulin,MM_T13BC01-2_20,20.62543,-103.30385
+Carlos Fuero - Aldama,MP-C-071,20.662235,-103.313156
+Carlos Fuero - Lindavista,MP-C-070,20.6555,-103.31546
+Carlos Salgado,MM_C102_94,20.62363,-103.28583
+Carlos Salgado,MM_C105_85,20.62345,-103.28691
+Carretera A Chapala,MP-T-023,20.59217,-103.31943
+Carretera a Colotlán,ST_04_046,20.849812,-103.444954
+Carretera a El Zapote,MM_A21_14,20.51913,-103.34339
+Carretera a El Zapote,MM_A21_77,20.51907,-103.34363
+Carretera libre a Zapotlanejo,mxc_C58V2_STP_12,20.58598,-103.22157
+Carretera libre a Zapotlanejo,mxc_C98_STP_14,20.5738,-103.21453
+Carretera libre a Zapotlanejo,mxc_C98_STP_15,20.57379,-103.21426
+Carrizales,MM_C19_126,20.61833,-103.26123
+Cayena,MM_A19_115,20.50841,-103.36314
+Cementerio de Toluquilla,MM_A18_48,20.58083,-103.36196
+Central De Autobuses,MT-L3-118,20.62322,-103.285286
+Central de Autobuses,MM_C106_44,20.62305,-103.28399
+Centro Cultural Universitario,MM_C117_50,20.73885,-103.38164
+Centro Cultural Universitario,MP-T-030,20.739344,-103.38216
+Centro Volcán Miño,MM_A16_54,20.73445,-103.3167
+Cereza,MM_C05_72,20.61734,-103.30937
+Cero de Peña Nevada,MM_C111V3_144,20.50059,-103.3608
+Cerro Copey,MM_C41V1_124,20.49313,-103.3588
+Cerro De Azufre,MM_A19_9,20.50429,-103.3612
+Cerro Del Coyote,MM_A19_8,20.5033,-103.36103
+Cerro Del Potosi,MM_A19_7,20.50071,-103.36062
+Cerro Mavicure,MM_A19_123,20.49425,-103.35619
+Cerro San Isidro,MM_A19_124,20.49174,-103.35597
+Cerro San Isidro,MM_A19_2,20.49158,-103.35584
+Cerro Santo Tomás,MM_A19_10,20.50619,-103.3615
+Cerro Torcido,MM_A19_6,20.49961,-103.36045
+Cerro de San Miguel,MM_A19_121,20.49724,-103.36027
+Cerro de la Cruz Marquez,MM_A19_116,20.50604,-103.36167
+Cerro de las Campanas,MM_A15_20,20.59952,-103.34422
+Cerro de las Campanas,MM_A17_10,20.59969,-103.34768
+Cerro de las Campanas,MM_A17_11,20.59967,-103.34696
+Cerro del Muerto,MM_A19_5,20.49696,-103.36003
+Cerro del Tezontle,MM_A19_120,20.49906,-103.36057
+Chapala,MM_C07V1_09,20.6923,-103.26718
+Chapala,mxc_C07V1_STP_09,20.6923,-103.26718
+Chapalita Inn,MP-T-012,20.654902,-103.44612
+Chapultepec,MM_C46V1_157,20.61696,-103.27316
+Chicle,MM_C74_117,20.65403,-103.44594
+Ciencias De La Salud,MM_018,20.689526,-103.334076
+Ciencias De La Salud,MM_037,20.690172,-103.33374
+Ciprés,MM_010,20.653196,-103.35328
+Ciprés,MM_045,20.652414,-103.353546
+Circuito Jalapa,MM_A19_107,20.51501,-103.37868
+Circuito Jalapa,MM_A19_19,20.5148,-103.37852
+Circuito Lima,MM_A19_15,20.51206,-103.3694
+Circuito Rio de Janeiro,MM_A19_17,20.51208,-103.37359
+Circuito Rio de Janeiro,MM_T14C01_17,20.51213,-103.37345
+Circuito Santa Fe,MM_1103255994,20.74839,-103.42573
+Circuito Sierra Santa Barbara Sur,MM_A21_8,20.49948,-103.3545
+Circuito Sierra Santa Barbara Sur,MM_A21_83,20.49968,-103.35442
+Circuito Sierra Santa Barbara Sur,MM_A21_84,20.49943,-103.35608
+Circuito Sierra Santa Barbara Sur,MM_A21_9,20.49959,-103.35338
+Circuito Sierra de la Covacha Oeste,MM_A21_7,20.49899,-103.35659
+Circunvalación,MM_019,20.696148,-103.3305
+Circunvalación,MM_036,20.696705,-103.33021
+Circunvalación Country,MT-L3-106,20.7065,-103.366
+Ciruelos,MM_C29V2_48,20.63451,-103.27934
+Ciudad Granja,MP-T-007,20.675146,-103.4552
+Ciudad Judicial,MP-T-008,20.680725,-103.45521
+Clemente Orozco,MM_004,20.622398,-103.34669
+Clemente Orozco,MM_051,20.621378,-103.34635
+Cluster 2,MM_A19_101,20.52316,-103.38632
+Colima,MM_A06_26,20.60561,-103.34052
+Colima,MM_A06_41,20.60578,-103.34061
+Colima,MM_A08_32,20.59015,-103.34478
+Colima,MM_A08_34,20.59132,-103.34426
+Colima,MM_A08_36,20.59315,-103.34368
+Colima,MM_A08_37,20.59435,-103.3434
+Colima,MM_A08_38,20.59559,-103.34306
+Colima,MM_A08_68,20.59592,-103.34319
+Colima,MM_A08_69,20.59452,-103.34348
+Colima,MM_A08_70,20.59314,-103.34384
+Colima,MM_A08_71,20.59215,-103.34409
+Colima,MM_A08_72,20.59134,-103.34436
+Colima,MM_A08_74,20.59023,-103.34489
+Colima,MM_C126V1_60,20.61243,-103.42377
+Colimilla,MM_C105_18,20.68467,-103.24613
+Colimilla,mxc_C105_STP_18,20.68467,-103.24613
+Colón,MM_C133V2_32,20.60536,-103.40049
+Comisaría de la Policía de Guadalajara,MM_C27_39,20.70374,-103.28346
+Comisaría de la Policía de Guadalajara,mxc_C27_STP_39,20.70374,-103.28346
+Comisión Federal de Electricidad,MM_A05_12,20.72146,-103.31382
+Comisión Federal de Electricidad,MM_A05_15,20.72133,-103.31392
+Comisión Federal de Electricidad,MM_C23_07,20.72005,-103.3144
+Comisión Federal de Electricidad,MM_C23_08,20.71984,-103.31541
+Comisión Federal de Electricidad,mxc_C23_STP_07,20.72005,-103.3144
+Comisión Federal de Electricidad,mxc_C23_STP_08,20.71984,-103.31541
+Condominio El Real,MM_C110V1_17,20.73726,-103.44986
+Condominio El Real,MM_C110V1_84,20.73681,-103.44964
+Constitución,MM_A07_33,20.60122,-103.35084
+Constitución,MM_A07_34,20.60091,-103.35206
+Constitución,MM_A07_35,20.60066,-103.35343
+Constitución,MM_A17_12,20.60158,-103.34722
+Constitución,MM_A17_35,20.60161,-103.34805
+Constitución,MM_T19C07_85,20.53001,-103.42414
+Constitución,MP-T-031,20.737776,-103.376366
+Covadonga,MM_C68_11,20.7447,-103.40441
+Covadonga,MM_C73_85,20.74519,-103.40438
+Coyula,MM_C122_106,20.65959,-103.23254
+Criollos,MM_C83_50,20.59387,-103.31708
+Cristobal Colon,MM_T04C01_01,20.593,-103.32265
+Cristobal Colon,MM_T13BC02_1_73,20.59317,-103.32306
+Cristóbal de Oñate,MT-L2_05,20.66756,-103.313416
+Crucero Colotlán,ST_04_021,20.78178,-103.46229
+Crucero Colotlán,ST_04_055,20.780973,-103.46253
+Cruz Blanca,MM_T13CC04_33,20.62016,-103.24758
+Cuauhtémoc,MM_C126V2_35,20.53159,-103.42457
+Cucei,MT-L3-113,20.659698,-103.32412
+Cutberto Ibarra,MM_C46V1_26,20.61807,-103.2823
+DAMIAN CARMONA,ST_03_030,20.674482,-103.309715
+DAOSA,ST_1B_003,20.711235,-103.4681
+DEGOLLADO,ST_03_014,20.677351,-103.34604
+DIANA,ST_1B_024,20.728031,-103.51769
+David Jaime Vivanco,MM_C117_60,20.72736,-103.34297
+David Jaime Vivanco,mxc_C117_STP_60,20.72736,-103.34297
+De La Calzada,MM_C100_44,20.6005,-103.3949
+De La Cantera,MM_C100_36,20.59816,-103.3919
+De La Pradera,MM_C07V2_11,20.68462,-103.24832
+De La Pradera,mxc_C07V2_STP_11,20.68462,-103.24832
+Degas,MM_A07_15,20.61466,-103.34876
+Degas,MM_A17_18,20.6094,-103.34667
+Degas,MM_A17_29,20.60906,-103.34665
+Degas,MM_A17_30,20.60663,-103.34622
+Del Barro,MM_C29V2_33,20.64509,-103.27484
+Del Bodeguero,MM_A15_5,20.58088,-103.34622
+Del Bosque,MM_C111V1_26,20.57933,-103.34182
+Del Cantor,MM_C100_46,20.59406,-103.38896
+Del Sastre,MM_C111V1_72,20.57953,-103.34205
+Del Valle,MM_A19_35,20.54075,-103.36094
+Deportes,MM_A09_29,20.59871,-103.3346
+Deportes,MM_A09_58,20.59892,-103.33484
+Dermatológico,MT-L1_18,20.720816,-103.353386
+Dionisio Rodríguez,MM_C61_68,20.60511,-103.28743
+División Del Norte,MT-L1_16,20.707985,-103.35563
+División del Norte,MM_C117_77,20.73265,-103.3567
+División del Norte,mxc_C117_STP_77,20.73265,-103.3567
+Dr. Angel Leaño,ST_04_005,20.747166,-103.41513
+Dr. Angel Leaño,ST_04_070,20.747313,-103.416405
+Dr. Pedro Juan Mirassou Tarno,MM_A19_45,20.56841,-103.36499
+Dr. Pedro Juan Mirassou Tarno,MM_A19_82,20.56873,-103.36528
+E. Alvarez del Castillo,MM_C06_101,20.61016,-103.30418
+EDUCADORES,ST_02_017,20.639166,-103.253296
+EDUCADORES,ST_02_028,20.638666,-103.252495
+EJIDO,ST_1B_017,20.72831,-103.55189
+EL CARMEN,ST_03_045,20.675419,-103.352455
+EL ZAPOTE,ST_02_019,20.630405,-103.249245
+EL ZAPOTE,ST_02_026,20.63068,-103.249245
+ENTRONQUE CUCBA,ST_1B_009,20.728638,-103.51556
+ESCUELA MILITAR,ST_03_006,20.676743,-103.370186
+Eco Park,ST_04_009,20.755913,-103.42738
+Eco Park,ST_04_066,20.75578,-103.42779
+Ecuador,MM_A19_110,20.51199,-103.3714
+Ecuador,MM_A19_113,20.51133,-103.36533
+Ecuador,MM_A19_16,20.51215,-103.37102
+Ecuador,MM_C103_150,20.50695,-103.37088
+Egipto,mxc_C07V2_STP_19,20.69662,-103.27461
+Ejido Copalita,ST_04_029,20.83401,-103.44919
+El Batán,MP-T-035,20.728285,-103.344574
+El Briseño,MP-T-000,20.625244,-103.43359
+El Cerrito,MM_T15_1_43,20.61669,-103.27663
+El Colli,MP-T-011,20.649002,-103.44367
+El Coyote,mxc_C13V1_STP_116,20.68402,-103.2457
+El Dean,MM_007,20.637522,-103.351425
+El Dean,MM_048,20.638132,-103.35153
+El Tapatio,MM_C67V1_75,20.62095,-103.32174
+El Tapatio,MM_T13AC01_21,20.62041,-103.32142
+El Tigre,ST_04_008,20.75402,-103.4248
+El Verde,MM_C69_108,20.71701,-103.30814
+El Zapote,ST_04_010,20.757387,-103.429405
+Emiliano Zapata,MM_A06_24,20.6042,-103.34139
+Emiliano Zapata,MM_A06_43,20.60438,-103.3415
+Emiliano Zapata,MM_A10_30,20.60502,-103.3384
+Emiliano Zapata,MM_T17_1_31,20.75974,-103.44051
+Encinos,ST_04_013,20.76316,-103.43737
+Enrique Díaz de León,MM_T19C05_92,20.73741,-103.37626
+Esculturas,MM_002,20.611824,-103.342766
+Esculturas,MM_053,20.611805,-103.34282
+España,MT-L1_03,20.621435,-103.38941
+Estacion Esculturas,MM_A06_32,20.61281,-103.34286
+Estacion Esculturas,MM_A17_21,20.61242,-103.34323
+Estadio Chivas,MP-T-009,20.688255,-103.455345
+Estela Torres Andrade,MM_A15_31,20.59319,-103.34808
+Eucario León López,MM_A16_34,20.72368,-103.32022
+Europa - Rafael Delgado,MP-C-063,20.655691,-103.31263
+FEDERALISMO,ST_01_048,20.677069,-103.35513
+FELIPE ANGELES,ST_03_027,20.671225,-103.30323
+FRANCISCO JAVIER GAMBOA,ST_01_007,20.674511,-103.37651
+FRANCISCO ROJAS,ST_03_003,20.676641,-103.37891
+FRANCISCO ROJAS GONZALEZ,ST_01_042,20.676641,-103.37891
+FRANCISCO VILLA,ST_03_026,20.672338,-103.30704
+FRANCISCO VILLA,ST_03_029,20.67335,-103.30612
+FUNERAL COLONIAS,ST_01_020,20.69077,-103.44909
+FUNERAL COLONIAS,ST_01_026,20.690931,-103.44996
+Federico Medrano,MM_C29V2_32,20.64924,-103.27248
+Federico Medrano,MM_T18_2_19,20.66184,-103.31834
+Felipe Angeles,MM_C123V1_88,20.61143,-103.42885
+Felipe Ruvalcaba,MP-T-001,20.642962,-103.44114
+Ferrocarril,MM_A08_23,20.576,-103.35486
+Ferrocarril,MM_A18_17,20.57624,-103.35541
+Foráneos,MM_C103_97,20.60822,-103.40478
+Fraccionamiento Las Luces,MM_A19_34,20.53915,-103.36216
+Fraccionamiento Las Luces,MM_A20_11,20.52665,-103.36035
+Fraccionamiento Las Luces,MM_A20_6,20.51335,-103.36418
+Fraccionamiento Las Luces,MM_A20_88,20.52816,-103.3613
+Fraccionamiento Las Luces,MM_A20_89,20.52668,-103.36056
+Fraccionamiento Las Luces,MM_A20_90,20.52429,-103.35902
+Fraccionamiento Las Luces,MM_A20_91,20.52208,-103.35757
+Francisco Corona,MM_A09_31,20.60241,-103.33605
+Francisco Corona,MM_A09_56,20.6027,-103.33633
+Francisco Sosa,MM_A05_2,20.72199,-103.29434
+Francisco Villa,MM_C108V1_25,20.6899,-103.30038
+Francisco Villa,MM_C27_85,20.68971,-103.30106
+Francisco Villa,MM_T02_02,20.60607,-103.30583
+Francisco Villa,MM_T02_100,20.6065,-103.30551
+Francisco Villa,MM_T19C03_02,20.60623,-103.30565
+Francisco Villa,MM_T19_11,20.59929,-103.28859
+Francisco de Ayza,MM_C68_106,20.67293,-103.31452
+Fraternidad,MM_T19C03_40,20.70567,-103.31304
+Fray Angélico,MM_001,20.608238,-103.342834
+Fray Angélico,MM_054,20.60827,-103.34288
+Fray Angélico,MM_A07_23,20.60886,-103.34231
+Fray Angélico,MM_A15_23,20.60734,-103.34294
+Fuente Zurich,MM_A08_24,20.57695,-103.35419
+Fuente Zurich,MM_A08_25,20.57842,-103.35316
+Fuente Zurich,MM_C67V1_84,20.57655,-103.3534
+GASOLINERA TECNOLOGY PARK,ST_1B_008,20.725168,-103.50726
+GENERAL CORONADO,ST_01_046,20.6769,-103.3654
+GONZÁLEZ ORTEGA,ST_02_002,20.657162,-103.266174
+GONZÁLEZ ORTEGA,ST_02_043,20.659283,-103.2713
+GREGORIO DAVILA,ST_03_009,20.676973,-103.36072
+Gabriel Guerra,MM_A17_15,20.60482,-103.34802
+Gabriel Guerra,MM_A17_32,20.6049,-103.34825
+Galeana,MM_C34_76,20.67124,-103.3489
+Gante,MM_C68_93,20.66077,-103.33439
+General Genovevo Rivas Guillen,MM_C108V2_112,20.69045,-103.30424
+General Lucio Blanco,MM_A08_105,20.54367,-103.32889
+Genovevo - Hacienda De Los Laureles,MP-C-047,20.699265,-103.30148
+Genovevo - San Carlos,MP-C-044,20.704535,-103.297874
+Genovevo Rivas - Josefa Ortíz De Dominguez,MP-C-073,20.670963,-103.31017
+Genovevo Rivas - Pablo Valdez,MP-C-076,20.677181,-103.308
+Genovevo Rivas - Álvaro Obregón,MP-C-072,20.665785,-103.31195
+Gigantes,MM_C68_104,20.66606,-103.31689
+Glendale,MM_T13BC01-2_30,20.62452,-103.30812
+Glorieta El Cantarito,MM_C19_118,20.61627,-103.28292
+Gorrión,MM_A19_37,20.54472,-103.35813
+Gorrión,MM_A19_89,20.54505,-103.35806
+Granados,ST_04_018,20.77208,-103.44967
+Granados,ST_04_058,20.77209,-103.45026
+Guadalajara,ST_04_011,20.758812,-103.43138
+Guadalajara,ST_04_065,20.759117,-103.43238
+Guadalajara - El Salto,MM_A09_11,20.57301,-103.31936
+Guadalajara - El Salto,MM_A09_76,20.57275,-103.31938
+Guadalajara Centro,MT-L3-110,20.675688,-103.34737
+Guadalajara-Morelia,MM_C125V1_132,20.56507,-103.45989
+Guadalajara-Morelia,MM_C125V1_48,20.56885,-103.45697
+Guadalajara-Zapotlanejo,mxc_C38V2_STP_05,20.58121,-103.21868
+Guadalajara-Zapotlanejo,mxc_C58V2_STP_10,20.5753,-103.21545
+Guadalajara-Zapotlanejo,mxc_C98_STP_104,20.58106,-103.21895
+Guadalupe,MM_A10_70,20.59203,-103.33091
+Guerrero,MM_C101_83,20.52633,-103.42465
+Gómez de Mendiola,MM_C68_105,20.66902,-103.31588
+H. Santa Cruz,ST_04_048,20.833998,-103.44946
+Hacienda,MM_A19_102,20.52097,-103.38726
+Hacienda Chinameca,MM_C106_24,20.61823,-103.25811
+Hacienda Chinameca,MM_T15_1_51,20.61802,-103.25837
+Hacienda La Purísima,MM_C13V2_20,20.69474,-103.30269
+Hacienda Ojo Zarco,MM_C07V2_30,20.68899,-103.29582
+Hacienda del Cabezón,MM_C07V2_31,20.68869,-103.29938
+Halcón,MM_C126V1_75,20.61276,-103.42329
+Hermenegildo Bustos,MM_A07_17,20.61554,-103.34702
+Hermita,MM_A17_1,20.59608,-103.35321
+Hermita,MM_A17_2,20.59621,-103.35234
+Hidalgo,MM_A15_17,20.59399,-103.34719
+Hidalgo,MM_A17_3,20.59531,-103.3513
+Hidalgo,MM_A17_43,20.59625,-103.35211
+Hidalgo,MM_A18_13,20.57391,-103.36398
+Hidalgo,MM_C103_111,20.57929,-103.36957
+Huentitán,MM_026,20.732027,-103.313705
+Huentitán,MM_029,20.732592,-103.313545
+Héroes De Nacozari,MM_009,20.646578,-103.35275
+Héroes De Nacozari,MM_046,20.646578,-103.35281
+INDEPENDENCIA,ST_03_015,20.677465,-103.34115
+INDEPENDENCIA,ST_03_040,20.678389,-103.33965
+INDUSTRIA,ST_02_014,20.647337,-103.25345
+INDUSTRIA,ST_02_031,20.646978,-103.25332
+INDUSTRIA,ST_03_028,20.672049,-103.3027
+INSURGENTES,ST_02_030,20.64435,-103.25367
+ITEA,MM_A19_42,20.55849,-103.36552
+ITEA,MM_A19_85,20.55866,-103.36632
+Ignacio Camarena,MM_C27_42,20.71264,-103.29417
+Ignacio Camarena,mxc_C27_STP_42,20.71264,-103.29417
+Ignacio Chávez,MM_C117_69,20.72149,-103.32547
+Ignacio Chávez,mxc_C117_STP_69,20.72149,-103.32547
+Ignacio Mejía,MM_A16_27,20.72331,-103.32331
+Igualdad,MM_022,20.711235,-103.322334
+Igualdad,MM_033,20.711777,-103.32205
+Independencia,MM_C100_45,20.59785,-103.39209
+Independencia,MM_C103_112,20.57834,-103.36592
+Independencia,MM_C27_16,20.66141,-103.23192
+Independencia,MM_C46V1_22,20.61718,-103.27313
+Independencia,MT-L3-111,20.671103,-103.34492
+Independencia Norte,MM_024,20.719858,-103.31767
+Independencia Norte,MM_031,20.720383,-103.3174
+Independencia Norte,MP-T-039,20.72046,-103.316
+Industria,MM_T02_72,20.67304,-103.30456
+Industria del Plastico,MM_C53_247,20.7409,-103.3894
+Isla Raza,MT-L1_05,20.63287,-103.38056
+Isletas,MM_T10C01_20,20.62916,-103.43584
+Iteso,MM_C103_99,20.6101,-103.4155
+Iteso,MP-T-015,20.610355,-103.41509
+J. Glez. Camarena,MM_A07_11,20.61135,-103.34815
+J. José Justo Álvarez,MM_A03_11,20.72272,-103.33761
+J. José Justo Álvarez,MM_A03_12,20.72268,-103.33889
+J. José Justo Álvarez,MM_A03_24,20.72261,-103.33784
+J. Justo Montier,MM_A07_28,20.61011,-103.35027
+J. Tizoc M.,MM_A07_12,20.61182,-103.34849
+JESUS MARIA,ST_03_012,20.677174,-103.35172
+JILGUERO 1,ST_1B_010,20.734629,-103.514496
+JILGUERO 2,ST_1B_012,20.734488,-103.51467
+JIMENEZ AUTOCAMIONES,ST_1B_030,20.708889,-103.46658
+JOCOTAN,ST_01_017,20.683851,-103.44032
+JOCOTAN,ST_01_029,20.683756,-103.44082
+JOSE MARIA GOMEZ,ST_03_022,20.675669,-103.31803
+JUAN DIAZ COVARRUBIAS,ST_03_038,20.678715,-103.33307
+JUAN N. CUMPLIDO,ST_03_010,20.677023,-103.358925
+JUAN PALOMAR Y ARIAS,ST_01_011,20.674635,-103.393166
+JUAN PALOMAR Y ARIAS,ST_01_038,20.674229,-103.3919
+JUAREZ,ST_03_046,20.674946,-103.355736
+JUAREZ 1,ST_01_049,20.675375,-103.354935
+JUAREZ 2,ST_01_001,20.674946,-103.355736
+Jamay,MM_C07V2_14,20.68838,-103.26098
+Jamay,mxc_C07V2_STP_14,20.68838,-103.26098
+Jardineros,MM_A08_28,20.5849,-103.34852
+Jardineros,MM_A08_78,20.5851,-103.34856
+Jerónimo Balleza,mxc_C117_STP_71,20.7233,-103.33047
+Jesús Amavisca,MM_C117_68,20.72107,-103.32206
+Jesús Amavisca,mxc_C117_STP_68,20.72107,-103.32206
+Jesús Corona,MM_A10_58,20.60163,-103.3294
+Jesús Ramírez,MM_A19_47,20.57512,-103.36324
+Jesús Ureta,MM_T19C03_153,20.67723,-103.30088
+Jilguero,MM_C27_17,20.66449,-103.23283
+Joaquin Romero,MM_A05_3,20.72011,-103.29589
+Joaquín Romero,MM_A05_24,20.71974,-103.29618
+Jorge del Moral,MM_C35_49,20.65218,-103.27122
+Josefa Ortiz de Domínguez,MM_T02_73,20.66996,-103.30561
+Josefa Ortíz de Domínguez,MM_T19C03_147,20.66985,-103.30651
+José Banales,MM_A08_30,20.58855,-103.3459
+José Banales,MM_A08_76,20.5888,-103.3459
+José María Chávez,MM_C117_70,20.72249,-103.3283
+José María Chávez,mxc_C117_STP_70,20.72249,-103.3283
+Juan Bautista Ceballos,MM_A13_29,20.62493,-103.35279
+Juan Diego,MM_A10_6,20.59337,-103.33101
+Juan Diego,MM_A10_68,20.59354,-103.3312
+Juan Escutia,MM_A09_27,20.59661,-103.33402
+Juan Escutia,MM_A09_60,20.5969,-103.33422
+Juan Jose Segura,MM_A07_10,20.61006,-103.34933
+Juan José de La Garza,mxc_C117_STP_62,20.72289,-103.33053
+Juan Sánchez Azcona,MM_A03_10,20.72257,-103.33623
+Juan Sánchez Azcona,MM_A03_25,20.72248,-103.33649
+Juan de Dios Robledo,MM_C108V1_28,20.69105,-103.30663
+Juan de la Barrera,MM_A09_22,20.58434,-103.33212
+Juan de la Barrera,MM_A09_26,20.59449,-103.33369
+Juan de la Barrera,MM_A09_61,20.59477,-103.33391
+Juan de la Barrera,MM_A09_65,20.58414,-103.33227
+Juan del Carmen,MM_C117_56,20.73235,-103.3568
+Juan del Carmen,mxc_C117_STP_56,20.73235,-103.3568
+Juan Álvarez,MM_017,20.685347,-103.33634
+Juan Álvarez,MM_038,20.684547,-103.336784
+Juan Álvarez,MM_A18_49,20.57501,-103.36353
+Julián Medina Castillo,MM_C13V2_16,20.68607,-103.29793
+Justo Sierra,MM_C61_66,20.60174,-103.2879
+Juárez,MM_A18_15,20.57713,-103.36114
+Juárez 1,MT-L1_12,20.67463,-103.35476
+Juárez 2,MT-L2_10,20.674911,-103.35541
+LA GRAN PLAZA,ST_01_012,20.67523,-103.403404
+LA GRAN PLAZA,ST_01_037,20.674955,-103.40414
+LA MERCED,ST_03_013,20.677261,-103.34845
+LA MINERVA,ST_01_010,20.674604,-103.389244
+LA MINERVA,ST_01_039,20.6743,-103.38933
+LA MODERNA,ST_1B_004,20.714361,-103.47097
+LA PILA,ST_02_003,20.658201,-103.26362
+LA PILA,ST_02_042,20.657871,-103.26776
+LA PRIMAVERA,ST_1B_018,20.727407,-103.56107
+LOMA AHUILSCULCO,ST_02_018,20.633768,-103.251175
+LOMA AHUILSCULCO,ST_02_027,20.633835,-103.25091
+LOMA BINITA,ST_02_033,20.652802,-103.25128
+LOMA BONITA,ST_02_012,20.653013,-103.25124
+LOMA DEL NORTE,ST_02_006,20.658194,-103.25523
+LOMA DEL NORTE,ST_02_039,20.658787,-103.25765
+LOPEZ MATEOS,ST_01_040,20.676277,-103.38595
+LOS ARCOS,ST_01_009,20.674522,-103.38644
+LOS PIRULES,ST_01_019,20.689117,-103.44713
+LOS PIRULES,ST_01_027,20.687954,-103.44615
+La Arbolada Plus,MM_A19_33,20.53792,-103.36306
+La Arbolada Plus,MM_A19_93,20.53799,-103.36321
+La Arbolada Plus,MM_A20_19,20.53641,-103.36425
+La Aurora,MT-L2_02,20.66245,-103.28577
+La Cantera,MP-T-033,20.732323,-103.3561
+La Capilla,MM_C35_50,20.65531,-103.27083
+La Cardona,ST_04_017,20.769564,-103.4462
+La Cardona,ST_04_059,20.769798,-103.44709
+La Cima,ST_04_004,20.745306,-103.41252
+La Experiencia,MP-T-036,20.725754,-103.33761
+La Mora,MM_C54_116,20.73002,-103.42569
+La Noria,mxc_C98_STP_26,20.68397,-103.24052
+La Normal (Cetram),MT-L3-108,20.692846,-103.34835
+La Paz,MM_013,20.666325,-103.34665
+La Paz,MM_042,20.666927,-103.34634
+La Paz,MM_C07V2_107,20.67956,-103.24201
+Lago,MM_C67V2_110,20.61147,-103.32469
+Lago Cajititlan,MM_C09_10,20.53403,-103.46967
+Lago Cajititlan,MM_C09_62,20.53395,-103.46988
+Lagunitas,MM_C37V1_50,20.6644,-103.30048
+Las Bóvedas,MM_C135_84,20.73495,-103.4236
+Las Magnolias,ST_04_019,20.773989,-103.452286
+Las Magnolias,ST_04_057,20.77359,-103.45237
+Las Pintas,MP-T-022,20.587606,-103.32689
+Las Villas,MM_C123V1_78,20.58734,-103.44516
+Lateral Periferico - Puertas,MP-C-079,20.723253,-103.42131
+Lateral Periférico,MM_C80V1_70,20.65875,-103.4471
+Laura Apodaca,MM_C29V1_53,20.66006,-103.27899
+Lazaro Cardenas - República De Bolivia,MP-C-100,20.627142,-103.301254
+León Guzmán,mxc_C27_STP_36,20.69927,-103.27694
+Libertad,MM_C122_23,20.65695,-103.23303
+Libertad,MM_C27_124,20.65672,-103.23345
+Lic. Alberto Arámbula Magaña,MM_C128_29,20.53927,-103.43366
+Lic. Alberto M. González,MM_C43V1_26,20.73488,-103.36596
+Literatura,MM_A15_24,20.60697,-103.34351
+Literatura,MM_A17_17,20.60642,-103.34621
+Lomas Del Paraíso,MP-T-038,20.721495,-103.32624
+Lomas de San Agustin,MM_C09_07,20.52421,-103.4688
+Lomas de San Agustin,MM_C127V1_06,20.52117,-103.46601
+Lomas de San Agustin,MM_C127V1_08,20.5229,-103.46895
+Lomas de San Agustin,MM_C127V1_142,20.52133,-103.46839
+Loreto Sur,MM_A15_21,20.60193,-103.34515
+Loreto Sur,MM_A15_26,20.60246,-103.34519
+Los Belenes,mxc_C117_STP_73,20.72666,-103.33961
+Los Molinos,ST_04_027,20.82184,-103.45239
+Los Molinos,ST_04_050,20.821321,-103.45281
+Los Nogales,MM_T17_1_36,20.74451,-103.42268
+Los Robles,ST_04_007,20.750854,-103.42045
+Los Robles,ST_04_068,20.75023,-103.420166
+Luis Castillo Ledón,MM_T19C05_110,20.71228,-103.298
+Luis Castillo Ledón,mxc_C69_STP_09,20.71227,-103.29802
+Lázaro Cardenas,MM_T02_89,20.62693,-103.32294
+Lázaro Cárdenas,MM_008,20.640839,-103.35192
+Lázaro Cárdenas,MM_047,20.641453,-103.352
+Lázaro Cárdenas,MT-L3-117,20.632141,-103.29618
+López Cotilla,MM_C28_11,20.67221,-103.23624
+López De Legazpi,MM_005,20.627312,-103.34838
+López De Legazpi,MM_050,20.627855,-103.34858
+López Mateos,MP-T-005,20.612822,-103.423775
+López Portillo,MM_C124_26,20.6238,-103.43299
+MACROBUS SUR,MM_A06_33,20.61009,-103.34239
+MANUEL GARCIA,ST_1B_020,20.727976,-103.54399
+MARIANO JIMENEZ,ST_03_017,20.677662,-103.33433
+MERCADO CORONA,ST_03_043,20.678137,-103.34881
+MERCADO DEL MAR,ST_03_020,20.677408,-103.32377
+MISIÓN SAN FRANCISCO,ST_02_009,20.658888,-103.2479
+MISIÓN SAN FRANCISCO,ST_02_036,20.659199,-103.24773
+MORELOS,ST_03_001,20.676184,-103.38473
+MOTOLINIA,ST_02_005,20.65773,-103.25753
+MOTOLINIA,ST_02_040,20.65911,-103.26165
+Machala,MM_T14C01_168,20.51216,-103.37644
+Macrobus,MM_A15_25,20.60446,-103.34468
+Madero,MM_A09_32,20.60446,-103.33689
+Manuel García,mxc_C07V2_STP_18,20.69646,-103.27387
+Manuel González,MM_C117_55,20.7333,-103.36042
+Manuel González,mxc_C117_STP_55,20.7333,-103.36042
+Manuel I. Solis,MM_A16_13,20.73184,-103.32342
+Manuel Juárez,MM_C117_64,20.72042,-103.32282
+Manuel Juárez,mxc_C117_STP_64,20.72042,-103.32282
+Manuel M. Ponce,MM_C27_40,20.70715,-103.28618
+Manuel M. Ponce,mxc_C27_STP_40,20.70715,-103.28618
+Manuel Payno,MM_T19C03_58,20.67719,-103.30308
+Manuel Uribe,MM_C02_14,20.65944,-103.27235
+Manuel Uribe,MM_C36_101,20.65934,-103.27262
+Marbella,MM_C43V1_05,20.7462,-103.40073
+Margaritas,MM_A06_22,20.59979,-103.34236
+Mariano Otero,MP-T-002,20.632526,-103.436775
+María Mares,MM_C37V1_83,20.66062,-103.28378
+Mascota,MM_C07V2_103,20.68872,-103.26187
+Mascota,mxc_C07V2_STP_103,20.68872,-103.26187
+Matamoros,MM_C102_98,20.62397,-103.31429
+Melchor Ocampo,MM_A17_36,20.59978,-103.34898
+Melchor Ocampo,MM_A17_9,20.59967,-103.34915
+Mercado Del Mar,MT-L3-103,20.728851,-103.389626
+Mesa del Norte,MM_C53_194,20.70127,-103.31135
+Mexicaltzingo,MT-L1_11,20.666798,-103.35542
+Mezquitán,MT-L1_14,20.691395,-103.353935
+Miguel Aleman,ST_04_015,20.765854,-103.441086
+Miguel Allende,MM_T19C05_45,20.72815,-103.34323
+Miguel Allende,mxc_C117_STP_74,20.72821,-103.34334
+Miguel Hidalgo,MM_A19_29,20.52934,-103.37501
+Minerales,MM_A08_104,20.5449,-103.32921
+Minerales,MM_A08_2,20.54884,-103.33011
+Minerales,MM_A09_1,20.56006,-103.29998
+Minerales,MM_A09_10,20.57138,-103.30816
+Minerales,MM_A09_2,20.55961,-103.29848
+Minerales,MM_A09_3,20.55946,-103.29679
+Minerales,MM_A09_4,20.5613,-103.29639
+Minerales,MM_A09_5,20.56208,-103.29623
+Minerales,MM_A09_6,20.565,-103.29553
+Minerales,MM_A09_7,20.56499,-103.29481
+Minerales,MM_A09_77,20.57078,-103.3074
+Minerales,MM_A09_78,20.56894,-103.30365
+Minerales,MM_A09_79,20.56749,-103.30064
+Minerales,MM_A09_8,20.56774,-103.3005
+Minerales,MM_A09_80,20.56631,-103.30027
+Minerales,MM_A09_81,20.56552,-103.30073
+Minerales,MM_A09_82,20.56477,-103.30124
+Minerales,MM_A09_83,20.56411,-103.30169
+Minerales,MM_A09_84,20.56271,-103.30262
+Minerales,MM_A09_86,20.56217,-103.30159
+Minerales,MM_A09_87,20.56162,-103.30065
+Minerales,MM_A09_88,20.5612,-103.30003
+Minerales,MM_A09_89,20.56085,-103.29957
+Minerales,MM_A09_9,20.56938,-103.30388
+Minerva,MM_T19C01_71,20.62067,-103.43095
+Mirador,MM_027,20.737494,-103.31209
+Mirador,MM_028,20.732592,-103.313545
+Miramar,MP-T-003,20.635942,-103.4382
+Mojonera,MM_A06_40,20.60704,-103.33981
+Mojonera,MM_A09_51,20.60801,-103.33918
+Monastrel,mxc_C98_STP_96,20.65348,-103.20847
+Monte Olivete,MM_020,20.699423,-103.32872
+Monte Olivete,MM_035,20.699957,-103.328445
+Montealbán,MM_C46V1_160,20.6174,-103.26645
+Monumental,MM_021,20.703999,-103.32622
+Monumental,MM_034,20.704016,-103.32626
+Morelia-Guadalajara,MM_C125V1_46,20.56517,-103.45938
+Morelia-Guadalajara,MM_C128AV1_20,20.5963,-103.43888
+Morelos,MM_A08_89,20.56444,-103.34843
+Morelos,MM_C100_47,20.59147,-103.38677
+Multiplaza Del Valle,MM_A19_91,20.54121,-103.36093
+N. Enriquez,MM_A07_14,20.61412,-103.34983
+NIÑO OBRERO,ST_01_013,20.676329,-103.40857
+NIÑO OBRERO,ST_01_035,20.676208,-103.40984
+Narciso Mendoza,MM_A03_4,20.71942,-103.32619
+Narciso Mendoza,MM_A07_2,20.60244,-103.35395
+Niños Héroes,MM_012,20.663885,-103.34797
+Niños Héroes,MM_043,20.663073,-103.34843
+Nogal,MM_A19_98,20.52934,-103.37658
+Nogal,MM_C117_63,20.72185,-103.32783
+Nogal,mxc_C117_STP_63,20.72185,-103.32783
+Ntra. Señora de Santa Ana,MM_C10_48,20.55866,-103.45109
+Nuevo Periférico Oriente,MM_C07V1_94,20.69072,-103.26516
+Nuevo Periférico Oriente,mxc_C07V2_STP_115,20.6649,-103.22041
+Nuevo Periférico Oriente,mxc_C07V2_STP_116,20.65776,-103.21411
+Nuevo Periférico Oriente,mxc_C38V2_STP_02,20.56584,-103.2236
+Nuevo Periférico Oriente,mxc_C38V2_STP_03,20.56079,-103.22445
+Nuevo Periférico Oriente,mxc_C38V2_STP_04,20.56101,-103.22411
+Nuevo Periférico Oriente,mxc_C58V2_STP_08,20.52862,-103.24065
+Nuevo Periférico Oriente,mxc_C58V2_STP_92,20.5355,-103.23225
+Nuevo Periférico Oriente,mxc_C58V2_STP_93,20.52886,-103.24113
+Nuevo Periférico Oriente,mxc_C58V2_STP_94,20.5275,-103.24939
+Nuevo Periférico Oriente,mxc_C98_STP_09,20.52948,-103.23863
+Nuevo Periférico Oriente,mxc_C98_STP_10,20.53528,-103.23209
+Nuevo Periférico Oriente,mxc_C98_STP_100,20.59932,-103.21901
+Nuevo Periférico Oriente,mxc_C98_STP_16,20.5868,-103.21872
+Nuevo Periférico Oriente,mxc_C98_STP_17,20.59642,-103.21977
+Nuevo Periférico Oriente,mxc_C98_STP_18,20.59817,-103.21922
+Nuevo Periférico Oriente,mxc_C98_STP_19,20.61495,-103.21403
+Nuevo Periférico Oriente,mxc_C98_STP_20,20.62499,-103.2117
+Nuevo Periférico Oriente,mxc_C98_STP_90,20.68339,-103.24049
+Nuevo Periférico Oriente,mxc_C98_STP_98,20.62506,-103.21211
+Nuevo Periférico Oriente,mxc_C98_STP_99,20.61241,-103.2144
+O. Mtz.,MM_A07_13,20.61276,-103.35011
+Oblatos,MT-L2_06,20.670334,-103.32291
+Ocampo,MM_T19C01_19,20.70658,-103.44657
+Ocampo,MM_T19C07_73,20.55262,-103.44396
+Ocampo,MM_T19_51,20.70646,-103.4463
+Olivo,MM_A06_15,20.59427,-103.34031
+Olivo,MM_A06_16,20.59529,-103.33997
+Olivo,MM_A06_52,20.5953,-103.34005
+Olivo,MM_A06_53,20.59448,-103.34032
+Olivo,MM_A06_54,20.59348,-103.34064
+Orizaba,MM_C41V1_62,20.62716,-103.2993
+Orquidea,MM_C124_27,20.6169,-103.42926
+PARANINFO,ST_03_047,20.674894,-103.35971
+PARQUE DE CONTENEDORES,ST_1B_025,20.724207,-103.50528
+PEDRO C. NEGRETE,ST_03_021,20.676502,-103.32076
+PERIFERICO ORIENTE,ST_01_022,20.697905,-103.45305
+PERIFERICO PONIENTE,ST_01_023,20.698309,-103.45336
+PINAR DE LA VENTA 1,ST_1B_022,20.72914,-103.52963
+PINAR DE LA VENTA 2,ST_1B_023,20.728947,-103.52371
+PLAZA GALERIAS,ST_01_015,20.680487,-103.428024
+PLAZA GALERIAS,ST_01_031,20.68074,-103.43103
+PODER JUDICIAL,ST_03_041,20.678228,-103.34416
+POLICIA,ST_02_020,20.62911,-103.245476
+POLICIA,ST_02_025,20.629272,-103.24525
+PORFIRIO DIAZ,ST_03_034,20.678095,-103.32165
+PROGRESO,ST_01_004,20.674675,-103.36687
+PROGRESO,ST_1B_029,20.7116,-103.46894
+PUENTE PINAR DE LA VENTA,ST_1B_014,20.72957,-103.524
+Pablo Neruda,MM_A10_60,20.60071,-103.3292
+Pablo Valdez,MM_T18_2_24,20.67854,-103.31263
+Pablo Valdez,MM_T19C03_149,20.67599,-103.30436
+Palermo,ST_04_051,20.813702,-103.45475
+Palma Real,MM_C110V1_20,20.71753,-103.45575
+Palma Real,MM_C110V1_80,20.71785,-103.4554
+Pantera,MM_C10_20,20.56613,-103.4437
+Parque Metropolitano,MP-T-006,20.661627,-103.448906
+Pascual Ortiz,MM_C27_37,20.70101,-103.27887
+Pascual Ortiz,mxc_C27_STP_37,20.70101,-103.27887
+Paseo Lagos,MM_C102_72,20.58766,-103.32648
+Paseo San Arturo Sur,MM_C110V1_19,20.72052,-103.45487
+Paseo San Arturo Sur,MM_C110V1_81,20.72077,-103.4545
+Paseo de Las Magnolias,MM_T19C05_50,20.73515,-103.36581
+Paseo de Las Selva Norte,MM_C27_101,20.7055,-103.28615
+Paseo de Las Selva Norte,mxc_C27_STP_101,20.7055,-103.28615
+Paseo de Los Brezos,MM_C43V1_47,20.73769,-103.37477
+Paseo de la cumbre,MM_C102_32,20.50763,-103.39485
+Paseo del Chabacano,MM_C83_08,20.59621,-103.30867
+Paseo del Prado,MM_A18_2,20.56327,-103.38904
+Paseo del Prado,MM_A18_3,20.56365,-103.38743
+Paseo del Prado,MM_A18_4,20.56381,-103.38639
+Paseo del Prado,MM_A18_5,20.56421,-103.38435
+Paseo del Prado,MM_A18_60,20.56435,-103.38426
+Paseo del Prado,MM_A18_61,20.56392,-103.38636
+Paseo del Prado,MM_A18_62,20.56375,-103.38745
+Paseo del Prado,MM_A18_63,20.56336,-103.38898
+Paseo del Prado,MM_A18_64,20.5631,-103.39112
+Patria,MT-L1_04,20.626764,-103.38503
+Pedrera,MM_A09_34,20.60612,-103.33755
+Pera,MM_C05_13,20.61548,-103.30637
+Perfecto G. Bustamante,MM_C02_89,20.65973,-103.27598
+Periferico - Acueducto,MP-C-080,20.722591,-103.421036
+Periferico Norte,MM_T02A02_43,20.59565,-103.31222
+Periferico Oriente,MM_C07V2_09,20.68316,-103.24508
+Periferico Oriente,MM_C105_150,20.68297,-103.24531
+Periferico Oriente,MM_C16_28,20.7131,-103.30284
+Periferico Sur,MM_C133V2_36,20.60685,-103.40125
+Periférico Belenes,MP-T-028,20.739042,-103.40311
+Periférico Belenes,MT-L3-102,20.738115,-103.40315
+Periférico Norte,MM_T19C01_17,20.71052,-103.44221
+Periférico Norte,MP-T-034,20.730747,-103.35117
+Periférico Norte,MT-L1_19,20.730364,-103.35234
+Periférico Oriente,MM_C124_103,20.71408,-103.30147
+Periférico Ote.,ST_04_001,20.737925,-103.40254
+Periférico Pte.,ST_04_073,20.73899,-103.40452
+Periférico Sur,MP-T-017,20.605522,-103.40016
+Periférico Sur,MT-L1_01,20.607162,-103.401054
+Peñalblancas,MM_C103_145,20.50012,-103.36376
+Pirámides del Sol,MM_C80V1_65,20.62573,-103.43367
+Plaza Av. Aviación,MM_C110V1_16,20.74013,-103.44894
+Plaza Centro Sur,MM_C111V2_41,20.60589,-103.40109
+Plaza Centro Sur,MM_T10C03_36,20.60573,-103.40067
+Plaza De La Bandera,MT-L3-112,20.665073,-103.33263
+Plaza Patria,MT-L3-105,20.712261,-103.374985
+Plaza Tlajomulco,MM_C102_132,20.52477,-103.38784
+Plaza Universidad,MT-L2_09,20.675182,-103.34811
+Policia,MM_T11B_17,20.62932,-103.24506
+Poza Rica,MM_C61_71,20.61206,-103.28566
+Prisciliano Sánchez,MM_C108V2_31,20.63368,-103.3179
+Privada Arcediano,MM_A05_25,20.7219,-103.29424
+Privada Atotonilco,MM_C110V1_11,20.75439,-103.44244
+Privada Emiliano Zapata,MM_C83_52,20.59539,-103.31255
+Privada Ixtepete,MM_T10_62,20.63227,-103.43702
+Privada Ramón Corona,MM_C97V1_99,20.60224,-103.28922
+Privada Río Yaquis,MM_A06_11,20.59224,-103.34113
+Privada Río Yaquis,MM_A06_57,20.59234,-103.34122
+Prolongación 1º de Mayo,MM_A19_38,20.54699,-103.357
+Prolongación 1º de Mayo,MM_A19_88,20.54746,-103.35704
+Prolongación Gobernador Curiel,MM_A15_11,20.584,-103.35392
+Prolongación Gobernador Curiel,MM_A15_12,20.58502,-103.3534
+Prolongación Gobernador Curiel,MM_A15_13,20.5877,-103.35165
+Prolongación Gobernador Curiel,MM_A15_15,20.59144,-103.34919
+Prolongación Gobernador Curiel,MM_A15_16,20.59292,-103.34803
+Prolongación Gobernador Curiel,MM_A15_18,20.59663,-103.34566
+Prolongación Gobernador Curiel,MM_A15_19,20.59807,-103.34485
+Prolongación Gobernador Curiel,MM_A15_27,20.59974,-103.34438
+Prolongación Gobernador Curiel,MM_A15_28,20.59826,-103.34498
+Prolongación Gobernador Curiel,MM_A15_29,20.59694,-103.34577
+Prolongación Gobernador Curiel,MM_A15_30,20.59424,-103.34726
+Prolongación Gobernador Curiel,MM_A15_32,20.5917,-103.34925
+Prolongación Gobernador Curiel,MM_A15_33,20.59023,-103.34983
+Prolongación Gobernador Curiel,MM_A15_35,20.58537,-103.35335
+Prolongación Gobernador Curiel,MM_A15_36,20.58428,-103.35392
+Prolongación Gobernador Curiel,MM_A15_37,20.58326,-103.35448
+Prolongación Gobernador Curiel,MM_A15_38,20.58281,-103.35436
+Prolongación Gobernador Curiel,MM_A18_18,20.57681,-103.35725
+Prolongación Gobernador Curiel,MM_A18_46,20.58287,-103.35471
+Prolongación Vicente Guerrero,MM_A19_84,20.56202,-103.36666
+Prudencia,MM_C124_107,20.71047,-103.30896
+Puerta del Llano,ST_04_022,20.785154,-103.46189
+Puerta del Llano,ST_04_054,20.78529,-103.4622
+Puerto Campeche,MM_C61_73,20.61601,-103.28613
+Pánfilo Natera,MM_A16_28,20.72298,-103.32054
+Pánfilo Natera,MM_A16_32,20.72159,-103.32047
+Pánfilo Natera,MM_A16_33,20.7229,-103.32036
+Pánfilo Natera,MM_A16_35,20.7254,-103.32035
+Querido Moheno,MM_C05_56,20.64987,-103.3106
+Quetzal,MM_C122_103,20.66642,-103.23399
+Quinta Oriente,ST_04_061,20.76569,-103.44147
+R. del Moral,MM_A13_27,20.6241,-103.35098
+RAMON BLANCARTE,ST_03_033,20.677267,-103.31892
+RAMON PADILLA,ST_1B_013,20.728624,-103.51763
+RANCHO CONTENTO,ST_1B_028,20.717949,-103.48231
+RITA PEREZ DE MORENO,ST_03_023,20.674839,-103.31529
+RITA PEREZ DE MORENO,ST_03_032,20.676159,-103.31527
+RIVAS GUILLEN,ST_03_025,20.673193,-103.30983
+ROMAN MORALES,ST_03_035,20.679138,-103.32375
+ROTONDA,ST_03_042,20.678158,-103.347046
+Rafel Campoy,MM_C18_73,20.69978,-103.27807
+Rafel Campoy,mxc_C18_STP_73,20.69978,-103.27807
+Ramón López Velarde - Africa,MP-C-064,20.653091,-103.309975
+Ramón Martínez Zamora,MM_A18_16,20.57643,-103.35805
+Rancho Nuevo,MP-T-037,20.72304,-103.33035
+Real San Ignacio,MM_C09_21,20.56014,-103.44945
+Real de los Parotas,MM_C19_113,20.62771,-103.28155
+Recife,MM_A19_114,20.5095,-103.36396
+Reforma,MM_A19_28,20.52919,-103.37658
+Refugio,MT-L1_13,20.682117,-103.353745
+Refugio Gonzalez,MM_C21_103,20.71284,-103.30374
+Residencial San Sebastian El Grande,MM_C101_33,20.52219,-103.42299
+Revolución,MM_A19_87,20.55068,-103.35679
+Revolución,MM_A21_21,20.55091,-103.35651
+Revolución,MM_C106_23,20.61866,-103.25232
+Revolución,MM_C113V1_71,20.5509,-103.35707
+Revolución,MM_T15_1_53,20.61832,-103.25273
+Revolución,MT-L3-114,20.650982,-103.31033
+Ricardo Flores Magón,MM_C97V1_98,20.60569,-103.28935
+Rinconada de Peñaranda,MM_C80V1_67,20.63481,-103.4374
+Rio de Janeiro,MM_A19_109,20.51188,-103.37423
+Rio de Janeiro,MM_C111V3_12,20.50799,-103.36256
+Rosario,MM_C111V3_13,20.50973,-103.36389
+Rubén Rodríguez,MM_C38V1_81,20.6612,-103.28859
+Río Armería,MM_A06_68,20.58683,-103.33987
+Río Balsas,MM_A06_13,20.59345,-103.34122
+Río Balsas,MM_A06_6,20.58903,-103.34179
+Río Balsas,MM_A06_60,20.59045,-103.34128
+Río Balsas,MM_A06_61,20.58986,-103.34155
+Río Balsas,MM_A06_62,20.58907,-103.34188
+Río Mezquitic,MM_A06_8,20.5903,-103.34127
+Río Nilo,MT-L3-115,20.644657,-103.304
+Río Tiber,MM_A06_7,20.58972,-103.34153
+Río Tiber,MM_A08_33,20.59073,-103.3445
+Río Tiber,MM_A08_73,20.59093,-103.34455
+Río Tinto,MM_C05_60,20.63984,-103.31656
+Río Tuxcacuesco,MM_A06_4,20.58758,-103.34061
+SALADO ALVAREZ,ST_01_041,20.676672,-103.381744
+SAN JUAN BOSCO,ST_03_024,20.67401,-103.312546
+SAN JUAN BOSCO,ST_03_031,20.675064,-103.311646
+SAN MARTIN,ST_03_037,20.6789,-103.32916
+SANTA MARIA DEL PUEBLITO,ST_01_016,20.6822,-103.435936
+SANTA MARIA DEL PUEBLITO,ST_01_030,20.681688,-103.43589
+SOLIDARIDAD,ST_02_044,20.659405,-103.27473
+Salamanca,MM_T19C03_100,20.61075,-103.28141
+Salvador García Diego - Pensador Mexicano,MP-C-061,20.659224,-103.31333
+Salvador Hinojosa,MM_C63_13,20.61676,-103.28225
+San Agustin,MM_C125V1_41,20.55292,-103.46744
+San Andrés,MT-L2_04,20.665304,-103.30615
+San Antonio,MM_C101_31,20.51742,-103.4148
+San Camilo,MM_A08_12,20.5655,-103.34496
+San Gabriel,MM_C69_06,20.71714,-103.30983
+San Gabriel,mxc_C69_STP_06,20.71714,-103.30983
+San Isidro,MM_A09_30,20.59998,-103.33509
+San Isidro,MM_A09_57,20.60018,-103.33532
+San Isidro,MP-T-029,20.740396,-103.38822
+San Jacinto,MT-L2_03,20.663912,-103.29741
+San Juan De Dios,MM_015,20.675953,-103.341415
+San Juan De Dios,MM_040,20.67696,-103.340904
+San Juan De Ocotán,MP-T-013,20.706457,-103.44651
+San Juan de Dios,MT-L2_08,20.675495,-103.34085
+San Julián,MM_T19C05_122,20.69238,-103.2681
+San Julián,mxc_C07V1_STP_93,20.6924,-103.26815
+San Patricio,MM_023,20.715466,-103.320045
+San Patricio,MM_032,20.715994,-103.31978
+San Sebastianito,MP-T-018,20.590712,-103.38588
+San Sebastían,MM_C102_31,20.50805,-103.39872
+Santa Amalia,MM_A19_24,20.52093,-103.38705
+Santa Casilda,MM_C66V2_56,20.68473,-103.30459
+Santa Catalina,MM_C121B_69,20.72688,-103.41613
+Santa Cecilia,MM_A10_12,20.59863,-103.32945
+Santa Clemencia,MM_C13V2_14,20.6828,-103.29904
+Santa Clemencia,MM_C22_79,20.68612,-103.31002
+Santa Fe,MM_C68_112,20.68884,-103.3073
+Santa Filomena,MT-L1_09,20.654278,-103.36371
+Santa Inocencia,MM_A10_14,20.59973,-103.32888
+Santa Inocencia,MM_A10_61,20.59987,-103.329
+Santa Irene,MM_A17_40,20.59786,-103.35065
+Santa Irene,MM_A17_5,20.59772,-103.35055
+Santa Margarita,MP-T-026,20.730143,-103.41296
+Santa Mónica,MM_T17_1_37,20.74339,-103.41961
+Santa Mónica,MM_T17_1_87,20.74368,-103.41968
+Santa monica,ST_04_006,20.748594,-103.41732
+Santa monica,ST_04_069,20.74873,-103.41827
+Santuario,MT-L3-109,20.684101,-103.34793
+Santuario Mártires de Cristo Rey,MT-L1_02,20.613808,-103.39563
+Sebastián Conejo,MM_A16_12,20.73373,-103.3231
+Sierra de San Luis,MM_A19_117,20.50461,-103.36144
+Sierra de San Luis,MM_A19_118,20.50317,-103.36121
+Sitio de Puebla,MM_C23_70,20.71538,-103.30473
+Sitio de Puebla,MM_T19C05_108,20.71513,-103.30578
+Sitio de Puebla,mxc_C23_STP_70,20.71538,-103.30473
+Sitio de Puebla,mxc_C69_STP_07,20.71515,-103.30581
+Sonora,MM_C102_102,20.58793,-103.32664
+Sonora,MM_C78V1_08,20.61128,-103.42031
+Sta. Mónica,MM_C16_61,20.68204,-103.34927
+TABACHINES,ST_02_015,20.644423,-103.25387
+TECNOLOGY PARK,ST_1B_027,20.720743,-103.49238
+TECNOLOGY PARK 2,ST_1B_007,20.722765,-103.49894
+TECNOLOGY PARK I,ST_1B_006,20.720877,-103.49234
+TETLÁN,ST_02_001,20.657587,-103.270226
+TONALTECAS,ST_02_021,20.62647,-103.24604
+TONALTECAS,ST_02_024,20.627045,-103.24538
+Tabachines,MP-T-032,20.734217,-103.36309
+Teatro de Las Americas,MM_A15_22,20.60416,-103.3446
+Teatro de Las Americas,MM_A17_13,20.60367,-103.34767
+Teatro de Las Americas,MM_A17_33,20.60395,-103.34737
+Tecolotlan,MM_A07_32,20.60367,-103.35141
+Tecolotlan,MM_A07_4,20.60369,-103.35112
+Tepame,MM_T19_258,20.59646,-103.29564
+Tepatitlan,MM_A07_31,20.60519,-103.35215
+Tepatitlan,MM_A07_5,20.60486,-103.35177
+Tepeyac,mxc_C98_STP_12,20.56577,-103.22274
+Tercera oriente,ST_04_062,20.764618,-103.43998
+Terminal Ruta 62,MM_A13_1,20.61596,-103.36014
+Terminal Sur De Autobuses,MP-T-016,20.60852,-103.40752
+Terminal Valle de los Molinos,ST_04_038,20.8591,-103.426254
+Terminal de la Ruta 110,MM_A03_1,20.71663,-103.31998
+Tetlán,MT-L2_01,20.660015,-103.27605
+Tlaquepaque,MM_A08_82,20.57666,-103.35456
+Tlaquepaque,MM_A18_10,20.57579,-103.37133
+Tlaquepaque,MM_A18_11,20.57568,-103.36984
+Tlaquepaque,MM_A18_12,20.57556,-103.36817
+Tlaquepaque,MM_A18_51,20.57452,-103.36663
+Tlaquepaque,MM_A18_52,20.57536,-103.36659
+Tlaquepaque,MM_A18_53,20.57562,-103.368
+Tlaquepaque,MM_A18_54,20.57573,-103.36958
+Tlaquepaque,MM_A18_55,20.57584,-103.37112
+Tlaquepaque,MM_A18_56,20.57554,-103.37306
+Tlaquepaque,MM_A18_57,20.57172,-103.37376
+Tlaquepaque,MM_A18_58,20.56926,-103.37396
+Tlaquepaque,MM_A18_59,20.56632,-103.38008
+Tlaquepaque,MM_A18_6,20.56623,-103.38008
+Tlaquepaque,MM_A18_8,20.572,-103.37358
+Tlaquepaque,MM_A18_9,20.57529,-103.37322
+Tlaquepaque Centro,MT-L3-116,20.637472,-103.29987
+Toluquilla,MM_C103_86,20.57953,-103.36921
+Toluquilla,MP-T-020,20.579315,-103.36891
+Tonaltecas,MM_C35_83,20.62703,-103.24551
+Tonaltecas,MM_T11B_19,20.62626,-103.24603
+Tren Ligero Central de Autobuses,MM_C06_16,20.62283,-103.285
+Tren Ligero Periférico Norte,mxc_C117_STP_58,20.73091,-103.3523
+Tulipán,MM_C110V1_13,20.74887,-103.44387
+Tuzanía,MP-T-027,20.733295,-103.409485
+UGARTE LOYOLA,ST_03_018,20.677723,-103.33038
+UNION,ST_01_006,20.67454,-103.372925
+Unicornio,MM_C46V1_155,20.61652,-103.2803
+Unidad Deportiva,MT-L1_08,20.647392,-103.36917
+Universidad TecMilenio,MM_T19C05_51,20.7366,-103.37112
+Universidad TecMilenio,MM_T19C05_93,20.73628,-103.37124
+Unión,MM_C61_65,20.59958,-103.28794
+Urano,MM_C19_51,20.66433,-103.33281
+Urdaneta,MT-L1_07,20.643177,-103.372734
+V. SALADO ALVAREZ,ST_03_002,20.676672,-103.381744
+VELAZQUEZ,ST_01_032,20.679758,-103.42631
+VENTA DEL ASTILLERO,ST_1B_016,20.728233,-103.54409
+Valentin Vidrio,ST_04_032,20.84676,-103.42661
+Vallarta,MP-T-010,20.696404,-103.454575
+Valle Dorado Oriente,MM_A20_12,20.52852,-103.36127
+Valle Dorado Oriente,MM_A20_13,20.52944,-103.36191
+Valle Dorado Oriente,MM_A20_87,20.52935,-103.36205
+Valle Imperial,ST_04_016,20.768053,-103.444115
+Valle Imperial,ST_04_060,20.768137,-103.4448
+Valle de Ameca,ST_04_035,20.851892,-103.42491
+Valle de Ameca,ST_04_042,20.852617,-103.42522
+Valle de Atemajac,ST_04_036,20.855608,-103.425545
+Valle de Atemajac,ST_04_041,20.855743,-103.42576
+Valle de Copala,ST_04_045,20.847485,-103.42777
+Valle de Jerez,mxc_C98_STP_22,20.65342,-103.20776
+Valle de Miranda,ST_04_039,20.858501,-103.42626
+Valle de Zapopan,ST_04_033,20.846794,-103.42397
+Valle de Zapopan,ST_04_044,20.846985,-103.42422
+Valle de Zapotlán,ST_04_037,20.857254,-103.42583
+Valle de Zapotlán,ST_04_040,20.857405,-103.42604
+Valle de la Arena Norte,MM_A20_7,20.51724,-103.36126
+Valle de la Arena Norte,MM_A20_93,20.51731,-103.36134
+Valle de la Luna,ST_04_034,20.849163,-103.424385
+Valle de la Luna,ST_04_043,20.849241,-103.424614
+Valle de las Iguanas,MM_A20_8,20.51976,-103.35946
+Valle de las Iguanas,MM_A20_92,20.51988,-103.3595
+Valle de las Turquezas,MM_C135_87,20.75366,-103.43261
+Valle de los Molinos,ST_04_031,20.849663,-103.44511
+Valle del Volga,MM_C85_74,20.74158,-103.42513
+Vegetación Poniente,MM_T19C03_115,20.62988,-103.2808
+Veintiocho de Enero,MM_A19_96,20.53055,-103.36932
+Via Manzanillo,MM_A08_26,20.5804,-103.35174
+Via Manzanillo,MM_A08_27,20.58159,-103.35087
+Via Manzanillo,MM_A08_29,20.58616,-103.34758
+Via Manzanillo,MM_A08_31,20.58957,-103.34519
+Via Manzanillo,MM_A08_75,20.58968,-103.34522
+Via Manzanillo,MM_A08_77,20.58627,-103.34774
+Via Manzanillo,MM_A08_80,20.58042,-103.35186
+Via Manzanillo,MM_A08_81,20.57922,-103.35273
+Via Manzanillo,MM_A08_84,20.57295,-103.35612
+Vicente Guerrero,MM_A19_43,20.56146,-103.36643
+Vicente Guerrero,MM_C123V1_85,20.60367,-103.43397
+Villa Nueva,MM_A19_111,20.51189,-103.36962
+Villa Santander,MM_A21_10,20.499,-103.34359
+Vista Hermosa,MM_A15_14,20.58999,-103.34976
+Volcán Acatenango,MM_A16_1,20.72727,-103.30962
+Volcán Acatenango,MM_A16_3,20.7277,-103.31254
+Volcán Acatenango,MM_A16_4,20.72801,-103.3137
+Volcán Acatenango,MM_A16_83,20.7281,-103.31388
+Volcán Cayambe,MM_A16_2,20.72763,-103.31111
+Volcán Estrómboli,MM_A16_7,20.73161,-103.31358
+Volcán Estrómboli,MM_A16_81,20.73135,-103.31299
+Volcán Kenia,MM_A16_5,20.7291,-103.31343
+Volcán Kenia,MM_A16_6,20.73123,-103.31281
+Volcán Kenia,MM_A16_82,20.72933,-103.3135
+Volcán Kenia,MM_A16_84,20.72726,-103.31411
+Volcán Miravelles,MM_A16_86,20.7258,-103.31196
+Volcán Pochutla,MM_A16_59,20.73834,-103.3181
+Volcán Pochutla,MM_A16_65,20.7371,-103.31287
+Volcán Popoca,MM_A16_57,20.73618,-103.31884
+Volcán Popoca,MM_A16_73,20.73628,-103.31895
+Volcán Popoca,MM_A16_74,20.73592,-103.31823
+Volcán Popoca,MM_A16_75,20.7357,-103.31734
+Volcán Quinceo,MM_C74_119,20.64342,-103.44151
+Volcán Sajama,MM_A16_87,20.72536,-103.31023
+Volcán Sajama,MM_A16_88,20.72638,-103.30974
+Volcán Usulutan,MM_A16_85,20.72683,-103.31294
+Volcán Zacapu,MM_A16_61,20.7391,-103.31612
+Volcán Zacapu,MM_A16_62,20.73887,-103.31526
+Volcán Zacapu,MM_A16_63,20.73842,-103.31351
+Volcán Zacapu,MM_A16_64,20.73819,-103.31272
+Volcán Zacapu,MM_A16_68,20.74037,-103.32029
+Volcán Zacapu,MM_A16_69,20.73979,-103.3187
+Volcán Zacapu,MM_A16_70,20.73958,-103.31782
+WEST PLAZA PARK,ST_1B_026,20.721466,-103.49583
+Washington,MT-L1_10,20.661041,-103.35748
+Waterpolo,MM_T19C05_46,20.72921,-103.34607
+Waterpolo,mxc_C117_STP_75,20.72922,-103.34603
+Xicotencatl,MM_C46V1_159,20.61731,-103.26807
+ZACARÍAS LIMÓN,ST_02_016,20.64156,-103.25302
+ZALATITÁN,ST_02_004,20.658216,-103.2612
+ZALATITÁN,ST_02_041,20.65933,-103.26443
+ZARAGOZA,ST_02_022,20.626764,-103.25078
+ZARAGOZA,ST_02_023,20.62405,-103.24684
+Zacarias Rubio González,MM_C27_45,20.70899,-103.29646
+Zapata,MM_A10_44,20.60601,-103.33922
+Zapopan Centro,MT-L3-104,20.720587,-103.3872
+Zapote,MM_T19_257,20.59681,-103.30083
+Zapotlan,MM_A07_30,20.60745,-103.35236
+Zapotlan,MM_A07_6,20.60641,-103.35216
+Zapotlanejo,MM_C102_81,20.62769,-103.29059
+Zapotlanejo,MM_C13V1_02,20.68142,-103.25817
+Zapotlanejo,MM_C13V1_04,20.67748,-103.25787
+Zapotlanejo,MM_T19C05_125,20.68662,-103.25878
+Zapotlanejo,mxc_C07V2_STP_104,20.68662,-103.25881
+Zapotlanejo,mxc_C07V2_STP_13,20.68691,-103.25869
+Zaragoza,MM_C122_100,20.67432,-103.23748
+Zeuxis,MM_A17_34,20.60375,-103.3482
+Zona Industrial,MM_006,20.632685,-103.35051
+Zona Industrial,MM_049,20.63325,-103.35072
+Zoológico,MM_025,20.726303,-103.31541
+Zoológico,MM_030,20.72701,-103.3152
+Zoológico Guadalajara,MP-T-040,20.717999,-103.31093
+Álvaro Obregón,MM_T19C05_101,20.72543,-103.33729
+Álvaro Obregón,mxc_C117_STP_61,20.72545,-103.33734
+Ávila Camacho,MT-L1_15,20.69827,-103.3548
+Ávila Camacho,MT-L3-107,20.69933,-103.35478

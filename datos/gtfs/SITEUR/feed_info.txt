@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Nubenautas,https://nubenautas.com/,es,20220121,20230128,1,team@gtfs.studio,https://gtfs.studio/

@@ -1,0 +1,41 @@
+route_long_name,route_short_name,agency_id,route_type,route_id,route_color,route_text_color
+Alimentadora Mi Macro Calzada A03,MC-A03,MM,3,MC-A03,7FFF00,
+Alimentadora Mi Macro Calzada A05,MC-A05,MM,3,MC-A05,7FFF00,
+Alimentadora Mi Macro Calzada A06,MC-A06,MM,3,MC-A06,7FFF00,
+Alimentadora Mi Macro Calzada A07,MC-A07,MM,3,MC-A07,7FFF00,
+Alimentadora Mi Macro Calzada A08,MC-A08,MM,3,MC-A08,7FFF00,
+Alimentadora Mi Macro Calzada A09,MC-A09,MM,3,MC-A09,7FFF00,
+Alimentadora Mi Macro Calzada A10,MC-A10,MM,3,MC-A10,7FFF00,
+Alimentadora Mi Macro Calzada A13,MC-A13,MM,3,MC-A13,7FFF00,
+Alimentadora Mi Macro Calzada A15,MC-A15,MM,3,MC-A15,7FFF00,
+Alimentadora Mi Macro Calzada A16,MC-A16,MM,3,MC-A16,7FFF00,
+Alimentadora Mi Macro Calzada A17,MC-A17,MM,3,MC-A17,7FFF00,
+Alimentadora Mi Macro Calzada A18,MC-A18,MM,3,MC-A18,7FFF00,
+Alimentadora Mi Macro Calzada A19,MC-A19,MM,3,MC-A19,7FFF00,
+Alimentadora Mi Macro Calzada A20,MC-A20,MM,3,MC-A20,7FFF00,
+Alimentadora Mi Macro Calzada A21,MC-A21,MM,3,MC-A21,7FFF00,
+Alimentadora Mi Macro Periférico A01,MP-A01,MM,3,MP-A01,872292,FFFFFF
+Alimentadora Mi Macro Periférico A02,MP-A02,MM,3,MP-A02,872292,FFFFFF
+Alimentadora Mi Macro Periférico A03,MP-A03,MM,3,MP-A03,872292,FFFFFF
+Alimentadora Mi Macro Periférico A04,MP-A04,MM,3,MP-A04,872292,FFFFFF
+Alimentadora Mi Macro Periférico A05-1,MP-A05-1,MM,3,MP-A05-1,872292,FFFFFF
+Alimentadora Mi Macro Periférico A05-2,MP-A05-2,MM,3,MP-A05-2,872292,FFFFFF
+Alimentadora Mi Macro Periférico A06,MP-A06,MM,3,MP-A06,872292,FFFFFF
+Alimentadora Mi Macro Periférico A07,MP-A07,MM,3,MP-A07,872292,FFFFFF
+Complementaria Mi Macro Periférico C01,MP-C01,MM,3,MP-C01,9A82DB,FFFFFF
+Complementaria Mi Macro Periférico C02,MP-C02,MM,3,MP-C02,9A82DB,FFFFFF
+Complementaria Mi Macro Periférico C03,MP-C03,MM,3,MP-C03,9A82DB,FFFFFF
+Linea 1 Juárez - Aviación,L1,ST,3,ST_L1,2C85B5,FFFFFF
+Linea 1 Periferico Sur - Auditorio,L1,MT,0,MT_L1,692832,FFFFFF
+Linea 1B CUCBA - Aviación,L1B,ST,3,ST_L1B,2C85B5,FFFFFF
+Linea 2 Juarez - Tetlan,L2,MT,0,MT_L2,407058,FFFFFF
+Linea 2 Tetlán - Tonalá,L2,ST,3,ST_L2,2C85B5,FFFFFF
+Linea 3 Arcos - Felipe Ángeles,L3,ST,11,ST_L3,2C85B5,FFFFFF
+Linea 3 Arcos Zapopan - Central Camionera,L3,MT,0,MT_L3,B8007C,FFFFFF
+Linea 4 Juan Gil Preciado - Molinos,L4,ST,3,ST_L4,2C85B5,FFFFFF
+Mi Macro Calzada,MC-L1,MM,3,MC-L1,4CADA9,FFFFFF
+Mi Macro Calzada Express,MC-L1E,MM,3,MC-L1E,4CADA9,FFFFFF
+Mi Macro Periférico T01,MP-T01,MM,3,MP-T01,513780,FFFFFF
+Mi Macro Periférico T02,MP-T02,MM,3,MP-T02,7357C1,FFFFFF
+Mi Macro Periférico T03,MP-T03,MM,3,MP-T03,390094,FFFFFF
+"Ruta Troncal C98 - 368 ""CU Tonala""",C98,ME,3,C98,4C8D2B,FFFFFF
