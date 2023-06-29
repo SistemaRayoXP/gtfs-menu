@@ -1,4 +1,0 @@
-fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
-MM_F1,9.5,MXN,1,2,MM,0
-MT_F1,9.5,MXN,1,2,MT,0
-ST_F1,9.5,MXN,1,2,ST,0

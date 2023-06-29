@@ -1,2 +1,0 @@
-agency_id,agency_name,agency_lang,agency_timezone,agency_url,agency_phone,agency_email,agency_fare_url
-BUS,Mi Transporte,es,America/Mexico_City,https://setrans.jalisco.gob.mx/,,,
