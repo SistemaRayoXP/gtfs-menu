@@ -13,7 +13,9 @@ import json
 import xml.etree.ElementTree as ET
 import requests
 
-LIMPIAR_PANTALLA = "clear"
+print(os.name)
+
+LIMPIAR_PANTALLA = "cls" if ("win" in os.name or "nt" in os.name) else "clear"
 
 # Definimos las rutas de archivo
 RUTA_DATOS_GTFS = os.path.join(os.path.dirname(__file__), "datos/gtfs")
@@ -62,7 +64,7 @@ stop_times = {}
 def csv2dict(file):
     """Tranforma datos crudos CSV a una lista de diccionarios
     tomando como claves la primera columna del CSV"""
-    with open(file) as f:
+    with open(file, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         datos = [x for x in reader]
 
@@ -185,7 +187,7 @@ def obtenerRutas(archivoRoutes, quitarTexto=False):
         route_id = route["route_id"]
 
         if quitarTexto:
-            route["route_long_name"] = re.sub("^Troncal|^Alimentadora|^Complement\w+a", "", route["route_long_name"])
+            route["route_long_name"] = re.sub("^Troncal|^Alimentadora|^Complement\\w+a", "", route["route_long_name"])
 
         route["route_long_name"].strip()
 
@@ -610,7 +612,7 @@ def verificarColisionesDeParadasGtfsConOsm(
 
         if generarReporte:
             print("Intentando guardar resultados...")
-            with open(rutaResultadosColisiones, "w") as f:
+            with open(rutaResultadosColisiones, "w", encoding="utf-8") as f:
                 f.write(json.dumps(resultados, indent=2))
 
             print(f"Resultados guardados en {rutaResultadosColisiones}")
